@@ -1,0 +1,332 @@
+please include the instructions that is found in the pdf image or the text in the section of each question if it got any instructions and use the images/pdf as a structural guide to know what to put where also both instructions and question should be in one section just that instructions  should be in bold while question no only if there is instruction otherwise question should be bold 
+
+PLEASE INCLUDE OR INSERT THE IMAGES AS REFERENCE TO THEIR RESPECTIVE QUESTIONS 
+
+is 2025
+
+**BACCALAUREAT ESG — Série C et TI — Épreuve de SVTEEHB — Session 20…. — Durée 2h — Coefficient 2**
+
+---
+
+## PARTIE A : ÉVALUATION DES RESSOURCES — 10 points
+
+### I- Évaluation des savoirs (4 points)
+
+### Exercice 1 : QCM (2 points)
+
+**1. Le mécanisme de transport ci-dessous ne s'effectue pas dans le sens du gradient de concentration**
+
+**Section 1 : Solution**
+Réponse : **c) le transport actif**
+
+**Section 2 : Explication détaillée**
+Le transport actif déplace les molécules/ions **contre** leur gradient de concentration (du milieu le moins concentré vers le plus concentré), grâce à une consommation d'énergie (ATP), contrairement à la diffusion simple, la diffusion facilitée et l'osmose qui sont des transports passifs suivant le gradient.
+
+**Pièges possibles :** confondre transport actif et diffusion facilitée (les deux utilisent parfois des protéines transporteuses, mais seul le transport actif consomme de l'ATP et va contre le gradient).
+
+**Attentes de l'examinateur :** la seule lettre correcte reportée dans le tableau.
+
+**Barème OBC :** 0,5 pt si et seulement si « c » est inscrit ; 0 pt pour toute autre réponse.
+
+---
+
+**2. L'hormone suivante est une gonadostimuline**
+
+**Section 1 : Solution**
+Réponse : **a) la LH**
+
+**Section 2 : Explication détaillée**
+Les gonadostimulines (ou gonadotrophines) sont sécrétées par l'hypophyse antérieure et stimulent les gonades : LH et FSH. La GnRH est hypothalamique (stimule l'hypophyse, pas directement les gonades) ; l'œstradiol et la progestérone sont des hormones ovariennes, pas hypophysaires.
+
+**Pièges possibles :** confondre GnRH (hormone hypothalamique de libération) avec une gonadostimuline hypophysaire ; confondre hormones ovariennes et hormones hypophysaires.
+
+**Attentes de l'examinateur :** lettre correcte uniquement.
+
+**Barème OBC :** 0,5 pt pour « a » ; 0 pt sinon.
+
+---
+
+**3. Les étapes de transformation de la tomate en poudre, dans l'ordre chronologique**
+
+**Section 1 : Solution**
+Réponse : **b) lavage et triage – coupure en tranches – broyage – ensachage**
+
+**Section 2 : Explication détaillée**
+Logique technologique de transformation : on lave et trie d'abord la matière première brute, puis on la découpe pour faciliter le broyage, on broie ensuite pour obtenir la poudre/purée, puis on conditionne (ensachage) le produit fini.
+
+**Pièges possibles :** inverser broyage et coupure en tranches (on doit réduire la taille avant de broyer efficacement) ; placer l'ensachage avant le broyage.
+
+**Attentes de l'examinateur :** lettre correcte respectant la logique du procédé technologique.
+
+**Barème OBC :** 0,5 pt pour « b » ; 0 pt sinon.
+
+---
+
+**4. Les cellules immunitaires suivantes produisent les anticorps circulants ou libres**
+
+**Section 1 : Solution**
+Réponse : **a) les plasmocytes**
+
+**Section 2 : Explication détaillée**
+Les plasmocytes sont les cellules effectrices différenciées à partir des lymphocytes B activés ; ce sont eux qui sécrètent activement les anticorps (immunoglobulines) libres circulant dans le plasma sanguin et la lymphe. Les lymphocytes B, avant différenciation, portent des anticorps membranaires (récepteurs BCR) mais n'en sécrètent pas massivement ; les lymphocytes T n'en produisent pas ; les macrophages sont des cellules phagocytaires présentatrices d'antigène.
+
+**Pièges possibles :** confondre lymphocytes B (non différenciés) et plasmocytes (forme différenciée sécrétrice) ; confondre immunité humorale (anticorps) et immunité cellulaire (lymphocytes T).
+
+**Attentes de l'examinateur :** lettre correcte, distinction claire lymphocyte B / plasmocyte.
+
+**Barème OBC :** 0,5 pt pour « a » ; 0 pt sinon.
+
+---
+
+### Exercice 2 : Exploitation de documents (2 points)
+
+**Contexte/Document :** Schémas A, B, C, D, E, F en désordre présentant les étapes d'un phénomène biologique compensateur de la méiose chez la lapine (Mammifère). Descriptions :
+- A : Ovocyte II flanqué d'un globule polaire, chromosomes bloqués en zone médiane + tête d'un spermatozoïde
+- B : Ovotide/ovule flanqué de deux globules polaires, deux pronucléi qui se rapprochent
+- C : Embryon à deux cellules (1ère division de segmentation)
+- D : Cellule-œuf en anaphase de la 1ère division de segmentation
+- E : Cellule-œuf flanquée de deux globules polaires, deux pronoyaux accolés
+- F : Ovocyte II bloqué en métaphase II, entouré de nombreux spermatozoïdes
+
+**Question 1a) Identifier et nommer le phénomène observé**
+
+**Section 1 : Solution**
+Réponse : **La fécondation** (chez les Mammifères)
+
+**Section 2 : Explication détaillée**
+Le phénomène observé regroupe la rencontre des gamètes (rapprochement des pronucléi/pronoyaux), l'activation de l'ovocyte bloqué en métaphase II, l'expulsion des globules polaires et la première division de segmentation qui suit : il s'agit du processus global de **fécondation**, phénomène qui compense la réduction chromatique de la méiose en rétablissant la diploïdie et assure la pérennité de l'espèce.
+
+**Pièges possibles :** confondre « fécondation » avec « méiose » (le sujet précise que c'est un phénomène *compensateur* de la méiose, donc distinct) ; se limiter à « reproduction » qui est un terme trop vague.
+
+**Attentes de l'examinateur :** le terme exact « fécondation ».
+
+**Barème OBC :** 0,5 pt pour la réponse exacte « fécondation ».
+
+**Question 1b) Nommer les étapes représentées par A, B, E et F**
+
+**Section 1 : Solution**
+- **A** : Pénétration du spermatozoïde / fixation-pénétration du spermatozoïde dans l'ovocyte II
+- **B** : Amphimixie (rapprochement/fusion des pronucléi) — fin de caryogamie
+- **E** : Caryogamie (accolement des pronoyaux)
+- **F** : Reconnaissance/fixation des spermatozoïdes sur la zone pellucide (rencontre des gamètes)
+
+**Section 2 : Explication détaillée**
+Chaque lettre correspond à une étape chronologique précise du processus de fécondation : F = contact initial ovocyte-spermatozoïdes ; A = pénétration effective d'un spermatozoïde et activation de l'ovocyte ; E = les deux pronoyaux (noyaux haploïdes mâle et femelle) se rapprochent et s'accolent (caryogamie) ; B = les pronucléi fusionnent (amphimixie), rétablissant la diploïdie.
+
+**Pièges possibles :** confondre l'ordre F→A→E→B ; confondre « pronucléus » et « pronoyau » (utilisés ici comme synonymes selon l'énoncé) ; mal distinguer caryogamie (rapprochement/fusion des noyaux) de amphimixie (mélange des chromosomes).
+
+**Attentes de l'examinateur :** terminologie précise pour chacune des 4 étapes.
+
+**Barème OBC :** 0,25 pt × 4 = 1 pt (0,25 pt par étape correctement nommée).
+
+**Question 2) Classer les étapes A, B, E et F dans l'ordre chronologique**
+
+**Section 1 : Solution**
+Réponse : **F → A → E → B**
+
+**Section 2 : Explication détaillée**
+- F : les spermatozoïdes entourent l'ovocyte II encore bloqué en métaphase II (début du contact)
+- A : un spermatozoïde pénètre, ce qui lève le blocage méiotique (chromosomes en zone médiane, globule polaire visible)
+- E : les deux pronoyaux (mâle et femelle) se rapprochent et s'accolent
+- B : les deux pronucléi finissent de se rapprocher/fusionner (étape la plus avancée avant la 1ère division)
+
+**Pièges possibles :** inverser E et B car les deux schémas se ressemblent (pronoyaux accolés vs pronucléi qui se rapprochent) — bien lire les légendes fournies dans l'énoncé pour les distinguer.
+
+**Attentes de l'examinateur :** ordre exact respecté, cohérent avec les légendes fournies.
+
+**Barème OBC :** 0,5 pt si l'ordre complet F-A-E-B est exact ; 0 pt si ordre partiellement erroné (pas de demi-points prévus par l'énoncé).
+
+---
+
+### II- Évaluation des savoir-faire (6 points)
+
+### Exercice : Analyser et interpréter les résultats d'un cas de monohybridisme
+
+**Contexte/Données :**
+- M. X (éleveur de porcs) : à chaque mise-bas, certains porcelets sont mort-nés ou meurent peu après ; les porcelets touchés sont toujours à **longue queue**. Dernière portée : 6 porcelets vivants → 4 à longue queue, 2 à courte queue.
+- M. Y (frère de M. X, croise sa truie avec **le même mâle**) : aucun problème. 10 porcelets : 5 à longue queue, 5 à courte queue, tous se développent normalement.
+
+**Question 1 : Analyser et interpréter les résultats des croisements de M. X pour formuler une hypothèse scientifique expliquant la mort de certains porcelets (0,5+1+0,5 = 2 pts)**
+
+**Section 1 : Solution**
+
+*Analyse :* Sur les portées totales de M. X, on observe un phénotype « longue queue » associé à une mortalité (mort-nés ou mort précoce), et jamais chez les « courte queue ». Le rapport observé dans la dernière portée (4 longue queue : 2 courte queue, soit environ 2:1 chez les survivants) est caractéristique d'un rapport 3:1 attendu en cas de croisement entre deux hétérozygotes (F1×F1), amputé de la classe homozygote létale.
+
+*Interprétation :* Le caractère « longue queue » serait dû à un allèle dominant (**L**) qui, à l'état **homozygote (LL)**, est **létal** (mortalité embryonnaire/néonatale), alors qu'à l'état **hétérozygote (Ll)** il s'exprime en longue queue sans tuer l'individu. Le phénotype courte queue correspond au génotype homozygote récessif (**ll**), viable.
+
+*Hypothèse scientifique :* L'allèle responsable de la longue queue est un **allèle dominant létal à l'état homozygote** (létalité récessive au niveau de la survie, dominance au niveau du phénotype "queue"). Les deux parents de M. X sont donc tous deux hétérozygotes **Ll × Ll**, ce qui donne théoriquement 1 LL (mort) : 2 Ll (longue queue, vivants) : 1 ll (courte queue, vivant), soit un rapport 2:1 chez les survivants — proche de ce qui est observé (4:2).
+
+**Section 2 : Explication détaillée**
+On explique aux élèves qu'un gène létal est un gène dont un génotype (souvent l'homozygote pour l'allèle dominant) entraîne la mort avant ou peu après la naissance. Ici, comme les porcelets qui meurent sont toujours à longue queue, il faut supposer que ce sont les **homozygotes LL** qui meurent (les plus atteints, dose double de l'allèle), et non les hétérozygotes Ll (dose simple, viable mais phénotype dominant exprimé). Le rapport 3:1 attendu à la naissance (avant mortalité) devient 2:1 parmi les survivants observés, car la classe LL disparaît.
+
+**Pièges possibles :** confondre gène létal et gène simplement dominant/récessif classique ; oublier que le rapport de Mendel classique (3:1) est modifié en (2:1) à cause de la létalité d'une classe ; ne pas comprendre que la longue queue peut être à la fois dominante (s'exprime chez Ll) et associée à létalité (chez LL).
+
+**Ce que l'examinateur veut voir :** 
+- Constat que la mortalité est liée au phénotype longue queue (0,5 pt)
+- Analyse chiffrée montrant un rapport proche de 2:1 chez les survivants, renvoyant à un rapport 3:1 initial modifié par la disparition d'une classe (1 pt)
+- Hypothèse explicite : allèle dominant létal à l'état homozygote, parents hétérozygotes Ll × Ll (0,5 pt)
+
+**Barème OBC :** 0,5 (analyse/constat) + 1 (interprétation chiffrée/rapport) + 0,5 (hypothèse formulée) = 2 pts
+
+---
+
+**Question 2 : Analyser et interpréter les résultats des croisements de M. Y pour dégager le type d'hybridation et préciser en quoi il conforte l'hypothèse précédente (0,5+1+0,5 = 2 pts)**
+
+**Section 1 : Solution**
+
+*Analyse :* M. Y croise sa truie (différente) avec le **même mâle** que M. X. Résultat : 10 porcelets, 5 longue queue : 5 courte queue (rapport 1:1), tous vivants et se développant normalement (pas de mortalité).
+
+*Interprétation :* Un rapport 1:1 obtenu à la génération issue d'un croisement est caractéristique d'un **croisement-test / test-cross (ou croisement de retour)**, c'est-à-dire un croisement entre un hétérozygote (Ll, le mâle commun) et un homozygote récessif (ll, la truie de M. Y).
+
+*Type d'hybridation :* **Test-cross (croisement-test)** : Ll (mâle) × ll (truie de M. Y) → 1/2 Ll (longue queue) : 1/2 ll (courte queue).
+
+*En quoi cela conforte l'hypothèse :* Puisqu'aucun porcelet ne meurt chez M. Y, cela confirme qu'aucun descendant n'est homozygote LL (le croisement Ll × ll ne peut théoriquement pas produire de LL). Ceci **confirme** que le mâle commun est bien hétérozygote **Ll**, et que c'est spécifiquement le génotype homozygote LL (obtenu uniquement chez M. X où les deux parents sont Ll) qui est létal — validant l'hypothèse de létalité à l'état homozygote formulée en question 1.
+
+**Section 2 : Explication détaillée**
+Il faut amener l'élève à reconnaître le rapport 1:1 comme signature d'un test-cross, distinct du rapport 3:1 (ou 2:1 ici) d'un croisement F1×F1. Le raisonnement clé : la truie de M. Y devait être homozygote récessive (ll) pour donner ce rapport 1:1 avec un mâle hétérozygote Ll. L'absence totale de mortalité chez M. Y, comparée à la mortalité partielle chez M. X, est la preuve expérimentale que seul le génotype LL (obtenu seulement quand les deux parents apportent l'allèle L, donc chez M. X) est létal.
+
+**Pièges possibles :** ne pas reconnaître le rapport 1:1 comme test-cross ; confondre test-cross et croisement F1×F1 ; oublier d'expliicter le lien logique avec l'hypothèse de la question 1 (absence de LL chez M.Y car ll × Ll ne produit jamais LL).
+
+**Ce que l'examinateur veut voir :**
+- Identification du rapport 1:1 (0,5 pt)
+- Identification explicite du type d'hybridation = test-cross/croisement-test, avec génotypes Ll × ll (1 pt)
+- Lien logique explicite avec l'hypothèse de létalité de LL (absence de mortalité confirme absence de LL) (0,5 pt)
+
+**Barème OBC :** 0,5 + 1 + 0,5 = 2 pts
+
+---
+
+**Question 3 : Proposer une interprétation génotypique des deux croisements en conformité avec l'hypothèse formulée (1+1 = 2 pts)**
+
+**Section 1 : Solution**
+
+**Croisement de M. X : Ll × Ll**
+
+| Gamètes | L | l |
+|---|---|---|
+| **L** | LL (mort) | Ll (longue queue) |
+| **l** | Ll (longue queue) | ll (courte queue) |
+
+Échiquier de croisement → 1 LL : 2 Ll : 1 ll
+- 1 LL → létal (mort-né ou meurt rapidement)
+- 2 Ll → longue queue, viables
+- 1 ll → courte queue, viable
+Soit, chez les survivants : **2 longue queue (Ll) : 1 courte queue (ll)**, ce qui est cohérent avec l'observation (4 longue queue : 2 courte queue = rapport 2:1).
+
+**Croisement de M. Y : Ll (mâle) × ll (truie)**
+
+| Gamètes | L | l |
+|---|---|---|
+| **l** | Ll (longue queue) | ll (courte queue) |
+| **l** | Ll (longue queue) | ll (courte queue) |
+
+→ 1/2 Ll (longue queue) : 1/2 ll (courte queue), tous viables, ce qui correspond exactement à l'observation (5 longue queue : 5 courte queue).
+
+**Section 2 : Explication détaillée**
+On demande à l'élève de construire les échiquiers de croisement (ou tableaux de Punnett) pour les deux croisements, en utilisant l'allèle L (longue queue, dominant, létal à l'état homozygote) et l allèle l (courte queue, récessif, viable). Il faut bien montrer la disparition de la classe LL uniquement dans le croisement de M. X, expliquant la mortalité observée exclusivement dans cet élevage.
+
+**Pièges possibles :** oublier de préciser que la classe LL est non viable (l'omettre du tableau sans le signaler est une erreur) ; ne pas construire l'échiquier de croisement demandé par l'examinateur (une réponse uniquement textuelle sans tableau perd des points) ; erreur de gamètes pour le croisement Ll × ll (mettre L et l pour le parent ll).
+
+**Ce que l'examinateur veut voir :**
+- Échiquier correct pour le croisement de M. X avec signalement de la létalité de LL (1 pt)
+- Échiquier correct pour le croisement de M. Y (test-cross) (1 pt)
+
+**Barème OBC :** 1 pt (croisement M. X) + 1 pt (croisement M. Y) = 2 pts
+
+---
+
+## PARTIE B : ÉVALUATION DES COMPÉTENCES — 10 points
+
+**Compétence visée :** Lutter contre certaines maladies métaboliques
+
+**Situation-problème :** Dans la localité de LUNA, M. et Mme M. se rendent à l'hôpital car tous deux sont mal en point. Le médecin diagnostique un **diabète de type 2** chez le mari et une **hypertension artérielle** pour la femme. Il leur signale également qu'ils souffrent tous deux de maladies nutritionnelles dont la prévalence est très élevée dans la population. Ils se demandent comment, consommant les mêmes repas, ils développent des maladies différentes. En tant qu'élève de terminale C, tu es appelé à leur apporter des explications sur le lien entre leurs maladies, l'alimentation et les moyens de lutte y afférents.
+
+---
+
+**Consigne 1 : Dans un texte de 10 lignes, établis le lien entre l'alimentation et la maladie dont souffre M. M., et propose deux moyens de lutte y afférents. Tu évoqueras deux autres facteurs qui pourraient justifier sa maladie. (3,5 pts)**
+
+**Section 1 : Solution — Texte modèle (≈10 lignes)**
+
+> Le diabète de type 2 dont souffre M. M. résulte d'un déséquilibre entre les apports alimentaires et la capacité de l'organisme à réguler la glycémie. Une alimentation riche en sucres rapides (sodas, sucreries), en graisses saturées et en aliments raffinés (farines blanches, produits transformés), associée à une faible consommation de fibres, provoque des pics répétés de glycémie. À force d'hyperglycémies répétées, le pancréas est constamment sollicité pour sécréter de l'insuline, ce qui entraîne à terme une résistance des cellules cibles (musculaires, hépatiques, adipeuses) à cette hormone : c'est l'insulinorésistance, caractéristique du diabète de type 2. Pour lutter contre cette maladie, M. M. devrait d'abord adopter une alimentation équilibrée, pauvre en sucres rapides et riche en fibres (légumes, fruits, céréales complètes), et ensuite pratiquer une activité physique régulière, qui améliore la sensibilité des cellules à l'insuline et favorise l'utilisation du glucose par les muscles. Par ailleurs, d'autres facteurs pourraient expliquer sa maladie : l'hérédité/les antécédents familiaux de diabète, et la sédentarité ou le surpoids/l'obésité, qui aggravent l'insulinorésistance.
+
+**Section 2 : Explication détaillée**
+Le texte doit établir clairement : (1) le lien alimentation → mécanisme physiopathologique (hyperglycémies répétées → insulinorésistance) → diabète de type 2 ; (2) deux moyens de lutte concrets et pertinents (alimentation équilibrée + activité physique, ou éducation nutritionnelle, suivi médical, etc.) ; (3) deux autres facteurs de risque non alimentaires (hérédité, sédentarité, obésité, âge, stress...).
+
+**Pièges possibles :** se limiter à dire « il mange trop de sucre » sans expliquer le mécanisme physiologique (insulinorésistance) ; oublier de respecter les 10 lignes demandées ; ne proposer qu'un seul moyen de lutte au lieu de deux ; oublier les deux autres facteurs demandés (hérédité, sédentarité, etc.) ; confondre diabète de type 1 (auto-immun, insulino-dépendant dès le jeune âge) et diabète de type 2 (lié au mode de vie).
+
+**Ce que l'examinateur veut voir :** lien alimentation-maladie explicite et scientifiquement correct, deux moyens de lutte clairs, deux facteurs supplémentaires pertinents, texte structuré respectant le format demandé.
+
+**Barème OBC (grille d'évaluation) :**
+- Pertinence de la production : 1 pt
+- Maîtrise des connaissances scientifiques : 2 pts
+- Cohérence de la production : 0,5 pt
+- **Total : 3,5 pts**
+
+---
+
+**Consigne 2 : Dans un texte de 10 lignes, établis le lien entre l'alimentation et la maladie dont souffre Mme M., et propose deux moyens de lutte y afférents. Tu évoqueras deux autres facteurs qui pourraient justifier sa maladie. (3,5 pts)**
+
+**Section 1 : Solution — Texte modèle (≈10 lignes)**
+
+> L'hypertension artérielle dont souffre Mme M. est étroitement liée à ses habitudes alimentaires, notamment à une consommation excessive de sel (chlorure de sodium) présent dans les aliments industriels, les bouillons cubes, les conserves et les plats trop salés. Le sel en excès retient l'eau dans l'organisme, ce qui augmente le volume sanguin circulant ; ce volume accru exerce une pression plus forte sur les parois des vaisseaux sanguins, provoquant ainsi une élévation durable de la pression artérielle. Une alimentation riche en graisses saturées peut également favoriser le dépôt de plaques d'athérome qui rigidifient les artères et aggravent l'hypertension. Pour lutter contre cette maladie, Mme M. devrait réduire sa consommation de sel et d'aliments transformés, et privilégier une alimentation riche en fruits, légumes et potassium qui favorisent l'élimination du sodium. Elle devrait également pratiquer une activité physique régulière qui contribue à réguler la pression artérielle. D'autres facteurs pourraient justifier sa maladie : le stress chronique et l'hérédité/les antécédents familiaux d'hypertension.
+
+**Section 2 : Explication détaillée**
+Il faut expliquer le mécanisme physiologique précis : excès de sel → rétention d'eau → augmentation du volume sanguin → augmentation de la pression sur les parois artérielles → hypertension. Les deux moyens de lutte doivent être concrets (réduction du sel, activité physique, alimentation riche en potassium, réduction du stress). Les deux facteurs supplémentaires doivent être non-alimentaires et scientifiquement valides (hérédité, stress, âge, sédentarité, tabac/alcool).
+
+**Pièges possibles :** confondre les mécanismes du diabète et de l'hypertension (ne pas transposer le même mécanisme pour les deux maladies) ; ne pas expliquer le mécanisme du sel sur le volume sanguin et la pression ; oublier les 10 lignes ou les deux facteurs supplémentaires.
+
+**Ce que l'examinateur veut voir :** lien alimentation (sel)-hypertension bien expliqué mécanistiquement, deux moyens de lutte pertinents, deux facteurs additionnels valides, texte cohérent et structuré.
+
+**Barème OBC (grille d'évaluation) :**
+- Pertinence de la production : 1 pt
+- Maîtrise des connaissances scientifiques : 2 pts
+- Cohérence de la production : 0,5 pt
+- **Total : 3,5 pts**
+
+---
+
+**Consigne 3 : Conçois une affiche visant à éduquer et/ou informer dans laquelle tu montreras le lien entre l'observance des bonnes pratiques dont tu énuméreras quelques-unes (deux) et la lutte contre les maladies métaboliques. (3 pts)**
+
+**Section 1 : Solution — Modèle d'affiche**
+
+```
+╔══════════════════════════════════════════╗
+║   PRÉVENONS ENSEMBLE LES MALADIES         ║
+║        MÉTABOLIQUES !                     ║
+║                                            ║
+║   [Image : assiette équilibrée + une      ║
+║    personne faisant du sport]             ║
+║                                            ║
+║  BONNE PRATIQUE 1 :                       ║
+║  🍎 Adopter une alimentation équilibrée   ║
+║  → réduit le sucre, le sel et les         ║
+║    graisses → prévient le diabète et      ║
+║    l'hypertension                         ║
+║                                            ║
+║  BONNE PRATIQUE 2 :                       ║
+║  🏃 Pratiquer une activité physique       ║
+║    régulière (30 min/jour)                ║
+║  → améliore la sensibilité à l'insuline   ║
+║    et régule la pression artérielle       ║
+║                                            ║
+║  SLOGAN : « Bien manger, bouger,          ║
+║   c'est se protéger ! »                   ║
+╚══════════════════════════════════════════╝
+```
+
+**Section 2 : Explication détaillée**
+L'affiche doit comporter : un titre accrocheur, un support visuel évocateur (même décrit textuellement), l'énumération d'exactement **deux** bonnes pratiques (ex. alimentation équilibrée + activité physique, ou réduction du sel/sucre + suivi médical régulier), et pour chacune, un lien explicite avec la prévention des maladies métaboliques (diabète, hypertension). Un slogan mémorable renforce l'impact éducatif.
+
+**Pièges possibles :** faire une simple liste sans expliciter le lien science-pratique ; proposer plus ou moins de deux pratiques (l'énoncé en demande précisément deux) ; oublier la dimension visuelle/éducative propre à une affiche (titre, image, slogan) et se contenter d'un texte classique.
+
+**Ce que l'examinateur veut voir :** support visuel de type affiche (titre, image/pictogramme, message court), exactement deux bonnes pratiques énumérées, lien scientifique explicite entre chaque pratique et la lutte contre les maladies métaboliques.
+
+**Barème OBC (grille d'évaluation) :**
+- Pertinence de la production : 1 pt
+- Maîtrise des connaissances scientifiques : 1,5 pt
+- Cohérence de la production : 0,5 pt
+- **Total : 3 pts**
+
+---
+
+**TOTAL GÉNÉRAL : Partie A (10 pts) + Partie B (10 pts) = 20 points**

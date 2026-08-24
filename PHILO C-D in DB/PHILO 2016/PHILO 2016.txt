@@ -1,0 +1,87 @@
+please include the instructions that is found in the pdf image or the text in the section of each question if it got any instructions and use the images/pdf as a structural guide to know what to put where also both instructions and question should be in one section just that instructions  should be in bold while question no only if there is instruction otherwise question should be bold 
+
+is 2016
+
+Voici la résolution de l'épreuve de Philosophie du Baccalauréat 2016 (Séries C, E), traitée selon les consignes rigoureuses demandées.
+
+---
+
+### **SUJET III : EXERCICE SUR TEXTE**
+
+**Texte :**
+« Si l'on pose maintenant le problème de la nouveauté scientifique sur le plan proprement psychologique, on ne peut manquer de voir que cette allure révolutionnaire de la science contemporaine doit réagir profondément sur la structure de l'esprit. L'esprit a une structure variable dès l'instant où la connaissance a une histoire. En effet, l'histoire humaine peut bien, dans ses passions, dans ses préjugés, dans tout ce qui relève des impulsions immédiates, être un éternel recommencement; mais il y a des pensées qui ne recommencent pas, ce sont les pensées qui ont été rectifiées, élargies, complétées. Elles ne retournent pas à leur aire restreinte ou chancelante.
+Or l'esprit scientifique est essentiellement une rectification de savoir, un élargissement des cadres de la connaissance. Il juge son passé historique en le condamnant. Sa structure est la conscience de ses fautes historiques. Scientifiquement, on pense le vrai comme rectification historique d'une longue erreur, on pense l'expérience comme rectification de l'illusion commune et première ... L'essence même de la réflexion, c'est de comprendre qu'on n'avait pas compris ».
+Gaston BACHELARD, *La Formation de l'Esprit Scientifique*.
+
+---
+
+#### **1. Dégagez la thèse de l'auteur et la structure logique du texte.**
+
+**Section 1 : Réponse**
+
+* **Thèse :** La connaissance scientifique ne se construit pas par une simple accumulation de savoirs, mais par une rupture épistémologique consistant en une rectification permanente des erreurs passées et des illusions premières. L'esprit scientifique se définit par sa capacité à se transformer en se critiquant.
+* **Structure logique :**
+* **Mouvement 1 (lignes 1-3) :** Introduction du problème. L'évolution de la science transforme la structure de l'esprit.
+* **Mouvement 2 (lignes 3-7) :** Opposition entre l'histoire humaine (stagnante, faite de répétitions et d'impulsions) et le progrès scientifique (rectification, dépassement).
+* **Mouvement 3 (lignes 8-12) :** Définition de l'esprit scientifique comme une conscience critique de ses fautes passées et l'affirmation que le vrai est une rectification de l'erreur.
+
+
+
+**Section 2 : Explication et Barème**
+
+* **Explication :** L'auteur oppose deux façons de penser : la psychologie spontanée (préjugés) et la démarche scientifique (critique). Il faut montrer que pour Bachelard, la science est une "psychanalyse de la connaissance".
+* **Pièges :** Confondre "histoire humaine" (répétitive selon l'auteur) et "histoire des sciences" (progressive). Oublier que la "rectification" est le concept clé.
+* **Attentes :** Une identification claire du "non" scientifique.
+* **Barème OBC :** 0,5 pt pour la thèse, 0,5 pt pour la structure. Total : 1 pt.
+
+---
+
+#### **2. Expliquez : « esprit scientifique » ; « impulsions immédiates ».**
+
+**Section 1 : Réponse**
+
+* **Esprit scientifique :** C'est une attitude intellectuelle qui refuse l'évidence et la pensée intuitive. Il est caractérisé par le doute méthodique, la nécessité de preuve et, surtout, la capacité de l'esprit à se remettre en question pour corriger ses erreurs.
+* **Impulsions immédiates :** Il s'agit des réflexes cognitifs, des préjugés, des croyances non vérifiées ou des émotions qui nous poussent à accepter une idée sans examen critique. C'est le "premier savoir" que la science doit surmonter.
+
+**Section 2 : Explication et Barème**
+
+* **Explication :** Pour Bachelard, l'esprit scientifique est une "conquête". Les impulsions sont des obstacles épistémologiques qu'il faut briser.
+* **Pièges :** Ne pas définir ces termes en lien avec le contexte du texte (ne pas faire de définition générale, mais épistémologique).
+* **Attentes :** Précision terminologique.
+* **Barème OBC :** 0,5 pt par définition. Total : 1 pt.
+
+---
+
+#### **3. Que veut dire l'auteur quand il affirme : « Il juge son passé historique en le condamnant ».**
+
+**Section 1 : Réponse**
+
+* **Réponse explicite :** Bachelard signifie que le progrès scientifique n'est pas linéaire. Lorsqu'une nouvelle théorie scientifique remplace une ancienne (ex: la physique d'Einstein remplaçant celle de Newton sur certains points), elle ne se contente pas d'ajouter une information ; elle démontre que l'ancienne théorie reposait sur des erreurs ou des limites qui doivent être "condamnées" pour que la science avance. La science se construit sur les ruines de ses propres erreurs.
+
+**Section 2 : Explication et Barème**
+
+* **Explication :** L'auteur met en évidence la nature "discontinue" de la science. Condamner, c'est reconnaître qu'on était dans l'illusion.
+* **Pièges :** Interpréter cela comme un jugement moral sur les savants passés alors qu'il s'agit d'un jugement épistémologique sur les théories.
+* **Attentes :** Compréhension de la rupture épistémologique.
+* **Barème OBC :** 1 pt.
+
+---
+
+#### **4. Essai : Peut-on parler d'une objectivité absolue en science ?**
+
+**Section 1 : Développement (Thèse, Antithèse, Synthèse)**
+
+* **Thèse : L'objectivité absolue semble impossible.** Toute connaissance est produite par un esprit humain, imprégné de culture et utilisant des instruments de mesure qui limitent le réel. Comme le dit Bachelard, il y a toujours une "rectification". La science est une construction, pas un reflet passif du réel.
+* **Antithèse : L'objectivité est le but de la science.** Malgré les rectifications, la science parvient à des lois universelles et vérifiables (mathématisation, expérimentation). Le succès technique (fusées, médicaments) prouve qu'elle saisit une réalité extérieure stable, indépendante du sujet.
+* **Synthèse : L'objectivité est un idéal asymptotique.** Elle n'est jamais atteinte de manière "absolue" (puisque l'esprit humain est perfectible), mais elle est un horizon vers lequel la science tend grâce à la rigueur de sa méthode et à sa capacité d'autocritique.
+
+**Section 2 : Explication, Pièges et Barème**
+
+* **Démarche attendue :** Suivre le plan dialectique. Mobiliser Bachelard (texte), mais aussi éventuellement Popper (falsifiabilité) ou Kuhn (paradigmes).
+* **Pièges :** Faire un hors-sujet en parlant de la subjectivité de l'art. Ne pas définir l'objectivité.
+* **Attentes :** Rigueur logique et clarté.
+* **Barème OBC :** 03 pts au total. Évaluation : Pertinence (1 pt), Maîtrise des connaissances (1 pt), Cohérence/Présentation (1 pt).
+
+---
+
+*Session 2016 - Baccalauréat Cameroun*

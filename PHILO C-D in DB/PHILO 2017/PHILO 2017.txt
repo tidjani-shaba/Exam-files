@@ -1,0 +1,95 @@
+please include the instructions that is found in the pdf image or the text in the section of each question if it got any instructions and use the images/pdf as a structural guide to know what to put where also both instructions and question should be in one section just that instructions  should be in bold while question no only if there is instruction otherwise question should be bold 
+
+is 2017 
+
+Voici la résolution complète des sujets de philosophie proposés, structurée selon vos exigences pédagogiques et les attentes de l'OBC (Office du Baccalauréat du Cameroun).
+
+---
+
+### **Sujet III : Explication de texte**
+
+*Texte : « La science est donc élucidante (...) la complexité intrinsèque qui se trouve au cœur même de la science. » Edgar MORIN, Science avec Conscience, 1982.*
+
+#### **Question 1 : Dégagez la thèse de l'auteur ainsi que la structure logique du texte.**
+
+* **Instruction :** Identifier l'idée centrale et le mouvement argumentatif.
+* **Section 1 : Réponse**
+* **Thèse :** La science est intrinsèquement ambivalente ; elle ne peut être réduite à une dimension purement bénéfique ou purement maléfique, car elle porte en elle une complexité qui lie indissociablement progrès et menace.
+* **Structure logique :**
+1. **Constat (1ère phrase) :** Énumération des aspects positifs de la science (élucidante, enrichissante, conquérante).
+2. **Mise en perspective (2e et 3e phrases) :** La science révèle son revers (possibilités d'asservissement, menace d'anéantissement).
+3. **Synthèse/Recommandation (dernière phrase) :** Rejet du manichéisme (l'alternative "bonne/mauvaise" science) au profit d'une pensée de la complexité.
+
+
+
+
+* **Section 2 : Explication, Pièges et Barème**
+* **Explication détaillée :** L'auteur part d'une évidence admise (la science est utile) pour introduire un paradoxe (elle est dangereuse), afin de conclure sur une nécessité épistémologique : changer notre manière de penser la science.
+* **Pièges :** Ne pas confondre la thèse avec l'énumération des exemples. Éviter de paraphraser le texte.
+* **Barème OBC (3 pts) :** Thèse identifiée (1,5 pt) ; Structure logique claire (1,5 pt).
+
+
+
+---
+
+#### **Question 2 : Définissez : – Science ; – Complexité intrinsèque.**
+
+* **Section 1 : Réponse**
+* **Science :** Connaissance rationnelle, méthodique et vérifiable, cherchant à expliquer les phénomènes naturels par des lois universelles. Elle se distingue du savoir ordinaire par sa rigueur expérimentale.
+* **Complexité intrinsèque :** Caractère d'un objet qui ne peut être réduit à un seul élément ou à une logique linéaire. Dans le texte, cela signifie que le "bien" et le "mal" sont entremêlés dans la structure même de la recherche scientifique.
+
+
+* **Section 2 : Explication, Pièges et Barème**
+* **Explication :** La définition doit être philosophique (ne pas juste dire "la science c'est les maths").
+* **Pièges :** Définir la science par ses objets (ex: "la physique") au lieu de son essence.
+* **Barème OBC (2 pts) :** 1 pt par définition précise.
+
+
+
+---
+
+#### **Question 3 : Pourquoi selon l'auteur « il faut en finir avec l'alternative stupide entre une « bonne » science (...) et une « mauvaise » science (...) » ?**
+
+* **Section 1 : Réponse**
+* **Développement :** Morin qualifie cette alternative de "stupide" car elle repose sur une vision simpliste et manichéenne. Si l'on sépare le bon grain de l'ivraie, on devient incapable de comprendre le phénomène scientifique dans sa globalité. La science est ambivalente : le même savoir qui guérit peut tuer (ex: l'atome). Refuser cette complexité, c'est s'interdire de maîtriser les conséquences réelles de nos inventions.
+
+
+* **Section 2 : Explication, Pièges et Barème**
+* **Explication :** Montrer que l'auteur appelle à une "pensée complexe" qui dépasse la logique binaire (vrai/faux, bien/mal).
+* **Pièges :** Oublier de justifier pourquoi Morin utilise le terme "stupide" (incapacité à saisir le réel).
+* **Barème OBC (3 pts) :** Argumentation solide (2 pts) ; Clarté et logique (1 pt).
+
+
+
+---
+
+#### **Question 4 : Essai : A votre avis, la science est-elle ambivalente ?**
+
+* **Section 1 : Développement (Dissertation)**
+* **Introduction :** La science, pilier de la modernité, est souvent perçue comme le moteur du progrès humain. Cependant, ses applications récentes (nucléaire, IA) suscitent des inquiétudes. La science est-elle fondamentalement ambivalente ?
+* **Thèse (Oui, elle l'est) :** Comme le souligne Morin, la science est à la fois créatrice et destructrice. La maîtrise de la nature (Bacon) a permis d'éradiquer des maladies, mais a aussi conduit à la dégradation écologique et aux armes de destruction massive.
+* **Antithèse (Non, elle est neutre) :** La science en soi est un outil de connaissance pure. C'est l'usage politique ou moral que l'homme en fait qui est bon ou mauvais. La science n'est pas responsable, c'est la conscience humaine qui doit l'être.
+* **Synthèse :** La science n'est ni purement bonne ni purement mauvaise, elle est "ambivalente" car elle accroît le pouvoir humain. Ce pouvoir, étant une force, nécessite une éthique (la responsabilité) pour être canalisé.
+
+
+* **Section 2 : Explication, Pièges et Barème**
+* **Attentes de l'examinateur :** Une structure claire (thèse, antithèse, synthèse) et la mobilisation d'auteurs (Morin, Jonas, Heidegger).
+* **Pièges :** Sombrer dans le technophobisme primaire ou l'optimisme béat (scientisme).
+* **Barème OBC (12 pts) :** Introduction/Problématique (2 pts) ; Développement cohérent (6 pts) ; Synthèse pertinente (2 pts) ; Présentation/Style (2 pts).
+
+
+
+---
+
+### **Sujets de dissertation (Choix libre)**
+
+* **Sujet 1 : Peut-on parler à juste titre des peuples barbares ?**
+* **Thèse :** Critiquer l'ethnocentrisme. Le "barbare" est une catégorie construite par celui qui se croit "civilisé" (Claude Lévi-Strauss).
+* **Antithèse :** Reconnaître l'existence de valeurs morales universelles. Certains comportements (violence extrême) peuvent être qualifiés de barbares indépendamment de la culture.
+* **Synthèse :** Distinction entre barbarie comme état culturel (à rejeter) et barbarie comme acte moral (à condamner).
+
+
+* **Sujet 2 : Jean Paul SARTRE : « La seule façon d'exister pour la conscience c'est d'avoir conscience qu'elle existe »**
+* **Thèse :** La conscience est auto-réflexive (cogito cartésien). Existence = Pensée.
+* **Antithèse :** Il existe une vie inconsciente ou purement animale qui "existe" sans pour autant s'auto-réfléchir. Critique de la toute-puissance de la conscience (Freud).
+* **Synthèse :** La conscience est la spécificité humaine, mais elle n'est pas toute l'existence.

@@ -1,0 +1,358 @@
+please include the instructions that is found in the pdf image or the text in the section of each question if it got any instructions and use the images/pdf as a structural guide to know what to put where also both instructions and question should be in one section just that instructions  should be in bold while question no only if there is instruction otherwise question should be bold 
+
+PLEASE INCLUDE OR INSERT THE IMAGES AS REFERENCE TO THEIR RESPECTIVE QUESTIONS 
+
+is 2018
+
+BACCALAUREAT ESG : Série C_TI Session 2018
+
+---
+
+## I- RESTITUTION ORGANISEE DES CONNAISSANCES / 5 points
+
+### Partie A : Question à Choix Multiples (QCM) / 3 points
+
+#### 1.
+
+* **Instruction(s)/Contexte/Donnée(s)/Document(s) :** Chaque série de propositions suivantes comporte une seule réponse juste. Reproduire le tableau et le compléter en inscrivant en dessous de chaque N° de question la lettre correspondant à la proposition juste de votre choix.
+* **Question :** 1. La membrane plasmique : a) n’existe pas chez les cellules procaryotes ; b) n’existe pas chez les cellules végétales ; c) est imperméable à l’eau ; d) est doublée extérieurement d’une paroi pectocellulosique chez les végétaux.
+* **Section 1 : Solution(s)**
+* **Réponse explicite :** d
+
+
+
+
+* **Section 2 : Explication détaillée :** La cellule végétale possède une membrane plasmique qui est doublée extérieurement par une paroi squelettique rigide appelée paroi pectocellulosique (ou paroi cellulosique). Les procaryotes possèdent bien une membrane plasmique, tout comme les cellules végétales. Enfin, la membrane plasmique est perméable à l'eau (notamment grâce aux aquaporines).
+* **Piège(s) ou difficulté(s) possibles :** Confondre la membrane plasmique (présente chez tous les types cellulaires) et la paroi cellulosique (spécifique aux cellules végétales et située à l'extérieur de la membrane plasmique).
+* **Ce que l'examinateur veut voir :** Le choix de la lettre d.
+* **Répartition des points pour chaque étape/solution selon le barème OBC :** 1 point pour la réponse exacte.
+
+
+
+---
+
+#### 2.
+
+* **Instruction(s)/Contexte/Donnée(s)/Document(s) :** QCM, Session 2018.
+
+
+* **Question :** 2. Les chromosomes : a) sont toujours en nombre paire dans les cellules somatiques ; b) contiennent exclusivement de l’ADN ; c) contiennent exclusivement les protéines ; d) sont toujours en nombre impair dans les cellules sexuelles.
+* **Section 1 : Solution(s)**
+* **Réponse explicite :** a
+
+
+
+
+* **Section 2 : Explication détaillée :** Les cellules somatiques de la grande majorité des organismes eucaryotes sont diploïdes ($2n$), ce qui signifie que leurs chromosomes vont par paires homologues (le nombre est donc toujours pair). Les cellules sexuelles (gamètes) sont haploïdes ($n$) et contiennent généralement un nombre impair si $n$ est impair, mais peuvent aussi être pair si $n$ est pair (ex: chez l'homme, $2n = 46$ donc $n = 23$, qui est impair, mais chez la drosophile $2n = 8$ donc $n = 4$, qui est pair). De plus, les chromosomes sont constitués d'ADN et de protéines (histones), et non exclusivement de l'un ou de l'autre. Par conséquent, seule la proposition a est correcte dans un cadre général de description des cellules somatiques diploïdes.
+* **Piège(s) ou difficulté(s) possibles :** Penser que les cellules sexuelles ont toujours un nombre impair (ce qui dépend de la valeur de $n$).
+* **Ce que l'examinateur veut voir :** Le choix de la lettre a.
+* **Répartition des points pour chaque étape/solution selon le barème OBC :** 1 point pour la réponse exacte.
+
+
+
+---
+
+#### 3.
+
+* **Instruction(s)/Contexte/Donnée(s)/Document(s) :** QCM, Session 2018.
+
+
+* **Question :** 3. Le système nerveux végétatif : a) ne contrôle pas les fonctions de relation ; b) adapte l’organisme à l’effort ; c) ne participe pas à l’homéostasie ; d) ne contrôle pas les fonctions de nutrition.
+* **Section 1 : Solution(s)**
+* **Réponse explicite :** a
+
+
+
+
+* **Section 2 : Explication détaillée :** Le système nerveux végétatif (ou autonome) règle les grandes fonctions de la vie végétative (nutrition, circulation, respiration, excrétion) et participe activement à l'homéostasie. Il ne contrôle pas les fonctions de relation (qui relèvent du système nerveux somatique ou de relation, en relation avec le milieu extérieur).
+* **Piège(s) ou difficulté(s) possibles :** Confondre système nerveux végétatif et système nerveux somatique.
+* **Ce que l'examinateur veut voir :** Le choix de la lettre a.
+* **Répartition des points pour chaque étape/solution selon le barème OBC :** 1 point pour la réponse exacte.
+
+
+
+---
+
+### Partie B : Question à Réponse Ouverte (QRO) / 2 points
+
+#### 1.
+
+* **Instruction(s)/Contexte/Donnée(s)/Document(s) :** Définir les notions et expressions suivantes : rétrocontrôle, potentiel post-synaptique, organes lymphoïdes, homozygote.
+
+
+* **Question :** Définir les quatre termes demandés.
+* **Section 1 : Solution(s)**
+* **Réponse explicite :**
+* **Rétrocontrôle (feedback) :** Action en retour exercée par l'hormone d'une glande cible sur les centres hypothalamo-hypophysaires pour réguler sa propre sécrétion.
+* **Potentiel post-synaptique (PPS) :** Variation locale du potentiel de membrane d'un neurone postsynaptique consécutive à la fixation d'un neurotransmetteur sur ses récepteurs spécifiques.
+* **Organes lymphoïdes :** Structures anatomiques où se développent, mûrissent et/ou s'activent les cellules immunitaires (lymphocytes). On distingue les organes lymphoïdes primaires (centraux) et secondaires (périphériques).
+* **Homozygote :** Qualifie un organisme ou une cellule qui possède deux allèles identiques pour un gène donné sur une paire de chromosomes homologues.
+
+
+
+
+* **Section 2 : Explication détaillée :** Restitution rigoureuse de définitions scientifiques fondamentales du programme de SVT. Chaque définition doit mobiliser les mots-clés essentiels (ex: "action en retour" pour le rétrocontrôle, "variation locale" pour le PPS, "maturation/activation" pour les organes lymphoïdes, "allèles identiques" pour l'homozygote).
+* **Piège(s) ou difficulté(s) possibles :** Oublier des mots-clés ou confondre homozygote et hétérozygote, ou organes lymphoïdes primaires et secondaires.
+* **Ce que l'examinateur veut voir :** Des définitions concises, exactes et scientifiquement rigoureuses.
+* **Répartition des points pour chaque étape/solution selon le barème OBC :** 0,5 point par définition correcte (0,5 x 4 = 2 points).
+
+
+
+---
+
+## II- EXPLICATION DES MECANISMES DE FONCTIONNEMENT / 5 points
+
+* **Instruction(s)/Contexte/Donnée(s)/Document(s) :** Les documents A et B ci-dessous présentent le déroulement constant de deux phénomènes au cours de la vie cellulaire à savoir la dialyse et l’osmose. (Voir schémas des documents A et B de l'épreuve).
+
+
+* **Question :** 1- Désigner chaque phénomène en utilisant les lettres A et B. 2- Expliquer comment se déroule chaque phénomène. 3- Expliquer l’importance des deux phénomènes dans la vie cellulaire.
+
+---
+
+### Question 1 :
+
+* **Question :** Désigner chaque phénomène en utilisant les lettres A et B.
+* **Section 1 : Solution(s)**
+* **Réponse explicite :**
+* **A :** La dialyse.
+* **B :** L'osmose.
+
+
+
+
+* **Section 2 : Explication détaillée :** D'après l'analyse des documents, le document A illustre le passage de solutés (particules dissoutes) à travers une membrane perméable aux petites molécules, tendant vers l'égalisation des concentrations ($C_1 = C_2$), ce qui correspond à la dialyse. Le document B illustre le passage de solvant (eau) à travers une membrane semi-perméable d'un milieu moins concentré vers un milieu plus concentré jusqu'à l'égalisation des concentrations, ce qui caractérise l'osmose.
+* **Piège(s) ou difficulté(s) possibles :** Inverser les deux lettres par confusion entre mouvement des solutés et mouvement du solvant.
+* **Ce que l'examinateur veut voir :** L'association correcte de A à la dialyse et B à l'osmose.
+* **Répartition des points pour chaque étape/solution selon le barème OBC :** 1 point (0,5 pt par identification correcte).
+
+
+
+---
+
+### Question 2 :
+
+* **Question :** Expliquer comment se déroule chaque phénomène.
+* **Section 1 : Solution(s)**
+* **Réponse explicite :**
+* **Dialyse (A) :** C'est le mouvement de diffusion des molécules de solutés (particules dissoutes) à travers une membrane dialysante (perméable aux petites molécules et aux ions) du milieu le plus concentré vers le milieu le moins concentré, et ce, jusqu'à l'obtention d'un équilibre des concentrations de part et d'autre de la membrane ($C_1 = C_2$).
+* **Osmose (B) :** C'est le mouvement de diffusion des molécules de solvant (généralement l'eau) à travers une membrane semi-perméable (qui ne laisse passer que le solvant et retient les solutés) du milieu hypotonique (faible concentration en solutés, $C_1 < C_2$) vers le milieu hypertonique (forte concentration en solutés) afin d'égaliser les concentrations des deux compartiments ($C_1 = C_2$).
+
+
+
+
+* **Section 2 : Explication détaillée :** Il faut bien distinguer la nature de ce qui se déplace : des solutés pour la dialyse, et du solvant (eau) pour l'osmose. Le sens du déplacement se fait toujours selon le gradient de concentration (du plus concentré au moins concentré pour les solutés, et du milieu moins concentré au plus concentré en solutés pour l'eau).
+* **Piège(s) ou difficulté(s) possibles :** Définir l'osmose comme un mouvement de solutés au lieu d'un mouvement d'eau.
+* **Ce que l'examinateur veut voir :** La mention du gradient de concentration, la nature des éléments qui se déplacent (solutés vs eau) et l'état final d'équilibre.
+* **Répartition des points pour chaque étape/solution selon le barème OBC :** 2 points (1 pt pour la description de la dialyse et 1 pt pour la description de l'osmose).
+
+
+
+---
+
+### Question 3 :
+
+* **Question :** Expliquer l’importance des deux phénomènes dans la vie cellulaire.
+* **Section 1 : Solution(s)**
+* **Réponse explicite :**
+* **Importance de la dialyse :** Elle permet les échanges de nutriments (glucose, acides aminés) et de déchets métaboliques entre la cellule et son milieu environnant, assurant ainsi l'approvisionnement cellulaire et l'épuration des déchets.
+* **Importance de l'osmose :** Elle permet de réguler les flux d'eau à l'intérieur de la cellule, garantissant le maintien de la turgescence chez les cellules végétales et le maintien du volume cellulaire (pression osmotique) chez les cellules animales, évitant ainsi la lyse ou la plasmolyse excessive.
+
+
+
+
+* **Section 2 : Explication détaillée :** Ces deux mécanismes physiques passifs sont indispensables à la survie cellulaire. La dialyse gère la composition chimique interne en petits solutés, tandis que l'osmose gère l'équilibre hydrique et la pression hydrostatique interne (turgescence).
+* **Piège(s) ou difficulté(s) possibles :** Rester trop général sans lier ces phénomènes physiologiques précis à la vie de la cellule.
+* **Ce que l'examinateur veut voir :** L'apport nutritif/déchets pour la dialyse et la régulation hydrique/turgescence pour l'osmose.
+* **Répartition des points pour chaque étape/solution selon le barème OBC :** 2 points (1 pt pour l'importance de la dialyse et 1 pt pour l'importance de l'osmose).
+
+
+
+---
+
+## III- EXPLOITATION DES DOCUMENTS / 6 points
+
+* **Instruction(s)/Contexte/Donnée(s)/Document(s) :** Le daltonisme est une affection héréditaire liée au chromosome X. Le gène responsable de cette affection se manifeste à l’état récessif. Anna distingue parfaitement les couleurs, mais son mari n’en distingue pas. André, leur fils, est daltonien ainsi qu’une de ses sœurs, Elisabeth. Cette dernière a trois enfants dont deux garçons daltoniens et une fille qui distingue les couleurs. André a deux enfants, un garçon et une fille, qui distinguent parfaitement les couleurs. La fille d’André a épousé un garçon daltonien ; ils ont eu deux garçons et deux filles qui distinguent le vert du rouge.
+
+
+* **Question :** 1. Construire le pédigrée de cette famille. 2. Ecrire le génotype de la mère d’André. 3. Ecrire le génotype du père des enfants d’Elisabeth. 4. Ecrire le génotype de la femme et celui de la fille d’André. 5. a) Préciser si la fille d’André peut avoir des enfants non daltoniens avec son mari. b) Justifier votre réponse par un échiquier de croisement.
+
+---
+
+### Question 1 :
+
+* **Question :** Construire le pédigrée de cette famille.
+* **Section 1 : Solution(s)**
+* **Réponse explicite :**
+* *Génération I :* Anna (saine hétérozygote $X^N X^n$) x Mari d'Anna (daltonien $X^n Y$).
+* *Génération II :*
+* André (fils daltonien $X^n Y$)
+* Elisabeth (fille daltonienne $X^n X^n$)
+* Autres enfants (sains ou non précisés).
+
+
+* *Génération III :*
+* Enfants d'Elisabeth : 2 garçons daltoniens ($X^n Y$) et 1 fille saine (porteuse $X^N X^n$).
+* Enfants d'André : 1 garçon sain ($X^N Y$) et 1 fille saine (porteuse $X^N X^n$).
+
+
+* *Génération IV :*
+* Enfants de la fille d'André (porteuse $X^N X^n$) x Homme daltonien ($X^n Y$) : 2 garçons et 2 filles (tous distinguant le vert du rouge, c'est-à-dire phénotypiquement sains, donc filles porteuses $X^N X^n$ et garçons sains $X^N Y$).
+
+
+
+
+
+
+* **Section 2 : Explication détaillée :** Représentation schématique standard d'un arbre généalogique (carrés pour les hommes, cercles pour les femmes, figures noires pour les individus atteints, figures blanches pour les sains, et traits d'union pour les mariages et la descendance).
+* **Piège(s) ou difficulté(s) possibles :** Confusion des symboles (carré/cercle) ou mauvaise attribution des phénotypes selon le texte.
+* **Ce que l'examinateur veut voir :** Un arbre généalogique clair, comportant des générations bien identifiées en chiffres romains et des conventions respectées.
+* **Répartition des points pour chaque étape/solution selon le barème OBC :** 1,5 point pour le pédigrée.
+
+
+
+---
+
+### Question 2 :
+
+* **Question :** Ecrire le génotype de la mère d’André.
+* **Section 1 : Solution(s)**
+* **Réponse explicite :** $X^N X^n$
+
+
+* **Section 2 : Explication détaillée :** La mère d'André est Anna. Le texte indique qu'Anna distingue parfaitement les couleurs (donc de phénotype normal $X^N$-). Or, elle a un fils daltonien (André, génotype $X^n Y$). Ce chromosome $X^n$ portant l'allèle récessif du daltonisme a obligatoirement été transmis par sa mère. Par conséquent, Anna possède un allèle normal $N$ et un allèle muté $n$. Son génotype est donc $X^N X^n$ (hétérozygote ou porteur saine).
+* **Piège(s) ou difficulté(s) possibles :** Penser qu'une femme phénotypiquement saine est forcément homozygote ($X^N X^N$).
+* **Ce que l'examinateur veut voir :** Le génotype exact avec la notation chromosomique $X^N X^n$.
+* **Répartition des points pour chaque étape/solution selon le barème OBC :** 1 point.
+
+
+
+---
+
+### Question 3 :
+
+* **Question :** Ecrire le génotype du père des enfants d’Elisabeth.
+* **Section 1 : Solution(s)**
+* **Réponse explicite :** $X^N Y$
+
+
+* **Section 2 : Explication détaillée :** Elisabeth est atteinte de daltonisme, son génotype est donc nécessairement $X^n X^n$. Elle a eu parmi ses enfants une fille qui distingue les couleurs (phénotype normal). Cette fille possède donc le génotype $X^N X^n$. Elle a forcément reçu son allèle normal $X^N$ de son père. Le père des enfants d'Elisabeth est donc nécessairement de vision normale, et son génotype sur les chromosomes sexuels est $X^N Y$.
+* **Piège(s) ou difficulté(s) possibles :** Croire que le père des enfants d'Elisabeth est daltonien sous prétexte qu'Elisabeth l'est.
+* **Ce que l'examinateur veut voir :** Le génotype $X^N Y$ justifié par la présence d'une fille saine issue d'une mère malade.
+* **Répartition des points pour chaque étape/solution selon le barème OBC :** 1 point.
+
+
+
+---
+
+### Question 4 :
+
+* **Question :** Ecrire le génotype de la femme et celui de la fille d’André.
+* **Section 1 : Solution(s)**
+* **Réponse explicite :**
+* **Génotype de la femme d'André :** $X^N X^N$ ou $X^N X^n$ (mais le plus probable au vu des enfants est $X^N X^N$ ou $X^N X^n$ sachant que les enfants d'André distinguent parfaitement les couleurs. Comme André transmet son unique chromosome $X^n$ à ses filles, toutes les filles d'André recoivent $X^n$ d'André. Pour que la fille d'André distingue les couleurs ($X^N X^n$), elle a obligatoirement reçu l'allèle sain $X^N$ de sa mère. La femme d'André possède donc au moins un allèle $X^N$, son génotype est $X^N X^-$ (soit $X^N X^N$, soit $X^N X^n$)).
+* **Génotype de la fille d’André :** $X^N X^n$
+
+
+
+
+* **Section 2 : Explication détaillée :** André est daltonien ($X^n Y$). Il transmet obligatoirement son chromosome $X^n$ à toutes ses filles. La fille d'André distinguant les couleurs, elle possède un phénotype normal, son génotype est donc nécessairement $X^N X^n$ (ayant reçu $X^n$ de son père André, et $X^N$ de sa mère). La mère (femme d'André) a donc fourni un allèle $X^N$, son génotype est donc $X^N X^N$ ou $X^N X^n$.
+* **Piège(s) ou difficulté(s) possibles :** Oublier que le père transmet son chromosome $X$ à ses filles.
+* **Ce que l'examinateur veut voir :** Les génotypes corrects $X^N X^n$ pour la fille et $X^N X^-$ (ou $X^N X^N$ / $X^N X^n$) pour la femme d'André.
+* **Répartition des points pour chaque étape/solution selon le barème OBC :** 1 point (0,5 pt par génotype).
+
+
+
+---
+
+### Question 5 :
+
+* **Question :** a) Préciser si la fille d’André peut avoir des enfants non daltoniens avec son mari. b) Justifier votre réponse par un échiquier de croisement.
+* **Section 1 : Solution(s)**
+* **Réponse explicite :**
+* a) **Précision :** Oui, la fille d'André peut avoir des enfants non daltoniens (à la fois des garçons et des filles).
+* b) **Échiquier de croisement :**
+* Fille d'André (porteuse saine) : $X^N X^n$ (produit des gamètes $1/2 X^N$ et $1/2 X^n$)
+* Mari de la fille d'André (daltonien d'après l'énoncé : "a épousé un garçon daltonien") : $X^n Y$ (produit des gamètes $1/2 X^n$ et $1/2 Y$)
+
+
+| Gamètes | $X^N$ (50%) | $X^n$ (50%) |
+| --- | --- | --- |
+| **$X^n$ (50%)** | $X^N X^n$ (Fille saine porteuse - 25%) | $X^n X^n$ (Fille daltonienne - 25%) |
+| **$Y$ (50%)** | $X^N Y$ (Garçon sain - 25%) | $X^n Y$ (Garçon daltonien - 25%) |
+
+
+
+
+
+
+* **Section 2 : Explication détaillée :** La fille d'André est hétérozygote $X^N X^n$ (phénotype normal). Son mari est daltonien ($X^n Y$). L'échiquier montre qu'il y a une probabilité de 50% d'avoir des enfants non daltoniens (25% de filles saines porteuses $X^N X^n$ et 25% de garçons sains $X^N Y$). Le texte confirme d'ailleurs qu'ils ont eu des enfants qui distinguent le vert du rouge.
+* **Piège(s) ou difficulté(s) possibles :** Penser qu'un couple dont le père est daltonien et la mère conductrice ne peut avoir que des enfants malades.
+* **Ce que l'examinateur veut voir :** La réponse claire "Oui", suivie d'un échiquier de croisement rigoureux avec les proportions ou pourcentages corrects.
+* **Répartition des points pour chaque étape/solution selon le barème OBC :** 1,5 point (0,5 pt pour la précision "oui" et 1 pt pour l'échiquier de croisement).
+
+
+
+---
+
+## IV- SAISIE DE L’INFORMATION BIOLOGIQUE ET APPRECIATION / 4 points
+
+* **Instruction(s)/Contexte/Donnée(s)/Document(s) :** Un flacon est rempli totalement d’eau glucosée ($C_6H_{12}O_6$). On y ajoute une culture de levures (champignons unicellulaires microscopiques). Une extrémité d’un tube à dégagement est introduite dans le flacon et l’autre extrémité dans un tube à essai trouble l’eau de chaux et dans le flacon, de l’éthanol ($C_2H_5OH$) s’est formé. Dans la deuxième expérience, on fait traverser le flacon par un courant du dioxygène ; il ne forme plus d’éthanol, mais le développement des levures continue.
+
+
+* **Question :** 1. Relever l’information scientifique qui ressort de ces deux expériences. 2. Comparer en l’équilibrant, la réaction qui s’est produite dans le flacon au cours de la première expérience. 3. Ecrire la réaction chimique dans le cas de la deuxième expérience.
+
+---
+
+### Question 1 :
+
+* **Question :** Relever l’information scientifique qui ressort de ces deux expériences.
+* **Section 1 : Solution(s)**
+* **Réponse explicite :** Les levures sont des organismes anaérobies facultatifs : en absence de dioxygène ($O_2$), elles réalisent la fermentation alcoolique (production d'éthanol et de $CO_2$), tandis qu'en présence de dioxygène, elles réalisent la respiration cellulaire (développement continu sans production d'éthanol).
+
+
+* **Section 2 : Explication détaillée :** L'analyse comparative montre que le métabolisme énergétique des levures change selon la disponibilité en oxygène. Sans oxygène (milieu fermé rempli d'eau glucosée), elles fermentent le glucose en éthanol et dioxyde de carbone. Avec de l'oxygène, elles basculent sur la respiration aérobie, ce qui favorise encore mieux leur prolifération (effet Pasteur).
+* **Piège(s) ou difficulté(s) possibles :** Oublier de mentionner le changement de métabolisme énergétique lié à la présence ou l'absence d'oxygène.
+* **Ce que l'examinateur veut voir :** La mise en évidence du métabolisme plastique/énergétique des levures (fermentation vs respiration selon l'oxygène).
+* **Répartition des points pour chaque étape/solution selon le barème OBC :** 1 point.
+
+
+
+---
+
+### Question 2 :
+
+* **Question :** Comparer en l’équilibrant, la réaction qui s’est produite dans le flacon au cours de la première expérience.
+* **Section 1 : Solution(s)**
+* **Réponse explicite :** Il s'agit de la réaction de la fermentation alcoolique.
+Equation équilibrée :
+
+$$C_6H_{12}O_6 \rightarrow 2 \, C_2H_5OH + 2 \, CO_2$$
+
+
+
+
+* **Section 2 : Explication détaillée :** La première expérience se déroule en milieu anaérobie (flacon totalement rempli d'eau glucosée, sans $O_2$). La réaction chimique correspond à la dégradation incomplète du glucose par les levures, produisant de l'éthanol (alcool) et du dioxyde de carbone ($CO_2$, qui trouble l'eau de chaux). L'équilibrage de l'équation nécessite 2 moles d'éthanol et 2 moles de $CO_2$ pour 1 mole de glucose.
+* **Piège(s) ou difficulté(s) possibles :** Écrire une équation de respiration à la place de la fermentation, ou oublier d'équilibrer les coefficients stœchiométriques.
+* **Ce que l'examinateur veut voir :** L'écriture correcte et l'équilibrage strict de l'équation de la fermentation alcoolique.
+* **Répartition des points pour chaque étape/solution selon le barème OBC :** 1,5 point.
+
+
+
+---
+
+### Question 3 :
+
+* **Question :** Ecrire la réaction chimique dans le cas de la deuxième expérience.
+* **Section 1 : Solution(s)**
+* **Réponse explicite :** Il s'agit de la réaction de la respiration cellulaire aérobie.
+Equation équilibrée :
+
+$$C_6H_{12}O_6 + 6 \, O_2 \rightarrow 6 \, CO_2 + 6 \, H_2O$$
+
+
+
+
+* **Section 2 : Explication détaillée :** Dans la deuxième expérience, un courant de dioxygène traverse le flacon. Les levures cessent la fermentation et effectuent la respiration cellulaire aérobie, oxydant complètement le glucose en dioxyde de carbone et en eau, tout en dégageant une grande quantité d'énergie favorisant leur multiplication.
+* **Piège(s) ou difficulté(s) possibles :** Inverser les réactifs et les produits ou mal équilibrer les molécules d'oxygène et d'eau.
+* **Ce que l'examinateur veut voir :** L'équation bilan équilibrée de la respiration cellulaire.
+* **Répartition des points pour chaque étape/solution selon le barème OBC :** 1,5 point.

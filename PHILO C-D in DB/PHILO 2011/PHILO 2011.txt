@@ -1,0 +1,74 @@
+please include the instructions that is found in the pdf image or the text in the section of each question if it got any instructions and use the images/pdf as a structural guide to know what to put where also both instructions and question should be in one section just that instructions  should be in bold while question no only if there is instruction otherwise question should be bold 
+
+is 2011
+
+Voici la résolution complète et structurée de l'épreuve du **Baccalauréat de l'enseignement général (Madagascar, Session 2011, Séries : CD)**, traitant l'ensemble des trois sujets proposés (en français, tel qu'exigé), selon la méthodologie rigoureuse requise.
+
+---
+
+### **SUJET N°1**
+
+**Intitulé :** Doit-on adapter la science à la loi morale ou la loi morale à la science ?
+
+#### **Section 1 : Réponse(s)/Développement**
+
+* **Problématique :** Faut-il subordonner le progrès scientifique aux exigences éthiques, ou bien redéfinir la morale en fonction des découvertes de la science ?
+* **Première piste (Thèse - La science soumise à la loi morale) :** La science sans conscience n'étant que ruine de l'âme (Rabelais), elle doit être encadrée par des principes moraux. La puissance technique de la science (armements nucléaires, manipulations génétiques, IA) exige des limites éthiques pour protéger l'humanité et la dignité de la personne.
+* **Deuxième piste (Antithèse - La morale ajustée ou éclairée par la science) :** La loi morale ne doit pas être un dogme figé. Avec l'évolution des connaissances scientifiques, notre conception de l'homme, de la nature et du bien change. Par exemple, la science médicale redéfinit les frontières de la vie et de la mort, obligeant la bioéthique à adapter ses règles à la réalité scientifique.
+* **Synthèse / Position finale :** Ni subordination aveugle ni autonomie absolue : science et morale doivent s'enrichir mutuellement dans un dialogue permanent où la science fournit les faits et la morale fixe les finalités humaines.
+
+#### **Section 2 : Explication détaillée, pièges et barème**
+
+* **Explication détaillée :** L'exercice est un sujet comparatif (alternative). Il faut éviter de rejeter l'un des termes pour ne louer que l'autre. Le candidat doit montrer le double mouvement : le danger de la science amoral et le danger d'une morale dogmatique réfractaire aux faits scientifiques.
+* **Pièges :** Tomber dans le technophobe pur ou dans le scientisme béat. Oublier de traiter les deux sens de la question (science $\rightarrow$ morale ou morale $\rightarrow$ science).
+* **Barème standard :** Introduction (4 pts), Développement équilibré (10 pts), Conclusion (4 pts), Présentation (2 pts).
+
+---
+
+### **SUJET N°2**
+
+**Intitulé :** « Le devoir est réduit à une obligation sociale ». Qu’en pensez-vous ?
+
+#### **Section 1 : Réponse(s)/Développement**
+
+* **Problématique :** Le devoir moral se résume-t-il entièrement aux pressions, coutumes et lois de la société, ou possède-t-il une source purement intérieure et universelle ?
+* **Première piste (Thèse - Le devoir comme obligation sociale, inspirée de Durkheim) :** Oui, la société façonne notre conscience morale. Ce que nous appelons "devoir" n'est souvent que l'intériorisation des règles collectives, des tabous et des mœurs du groupe pour assurer la cohésion sociale. L'individu obéit à la pression sociale.
+* **Deuxième piste (Antithèse - Le devoir comme exigence de la conscience universelle, inspirée de Kant) :** Non, le devoir ne se réduit pas à la société. Il existe un impératif catégorique dicté par la raison pure pratique. Parfois, le véritable devoir moral consiste à s'opposer aux lois injustes de sa société (comme le faisait Socrate ou les résistants). La source du devoir est individuelle et universelle, non sociologique.
+* **Synthèse / Position finale :** Si la société transmet les codes de conduite, la conscience morale authentique s'élève au-dessus du simple conformisme social pour viser l'universel.
+
+#### **Section 2 : Explication détaillée, pièges et barème**
+
+* **Explication détaillée :** Ce sujet invite à croiser la sociologie (Durkheim) et la philosophie morale (Kant). L'argumentation doit montrer le passage de la contrainte extérieure (sociale) à la liberté intérieure (morale).
+* **Pièges :** Confondre "obligation" (contrainte extérieure) et "devoir" (adhésion volontaire et rationnelle). Réduire la discussion à un simple avis personnel non argumenté ("je pense que...").
+* **Barème standard :** Problématisation (4 pts), Argumentation thétique et antithétique (10 pts), Bilan/Synthèse (4 pts), Expression et correction (2 pts).
+
+---
+
+### **SUJET N°3**
+
+**Intitulé :** Faites l’analyse ordonnée du texte suivant en vue de dégager son intérêt philosophique.
+
+> *« L’enseignement philosophique offre pour toute la jeunesse une double utilité : d’une part, il apprend à critiquer les opinions reçues, les traditions admises, les idées admises ; d’autre part, il apprend à dépasser le conformisme en vue d’une cohérence toujours plus parfaite de la pensée et de l’action. La réflexion philosophique est d’autant plus nécessaire que les sciences se développent davantage car si elle n’en découvre pas des idées partielles, si en ce sens elle est un non savoir, elle n’est pas pour cela subjective au sens péjoratif, mais elle est un certain mode d’appréhension de la condition humaine dans son universalité »* — **LACROIX**, *in Panorama de la philosophie*
+
+#### **Section 1 : Réponse(s)/Développement**
+
+* **Éléments d'analyse (Structure logique) :**
+1. *Première partie (Du début à "l’action") :* L'auteur pose la double utilité pédagogique et critique de la philosophie pour la jeunesse : la déconstruction des dogmes (esprit critique) et la construction d'une cohérence existentielle (dépassement du conformisme).
+2. *Seconde partie (De "La réflexion" à la fin) :* Lacroix légitime la philosophie face au développement des sciences. Bien qu'elle ne produise pas de savoirs scientifiques parcellaires ("non savoir"), elle offre une vision universelle et objective de la condition humaine.
+
+
+* **Thème :** La légitimité et le rôle de l'enseignement philosophique.
+* **Problème :** Quelle est la valeur de la philosophie à l'ère de la science et face aux traditions ?
+* **Thèse de l'auteur :** La philosophie est indispensable car elle libère l'esprit par la critique, unifie la pensée et l'action, et offre une compréhension universelle de l'homme que la science fragmentaire ne peut saisir.
+* **Intérêt philosophique :** Réhabiliter la philosophie contre le scientisme et le dogmatisme. Montrer qu'elle n'est pas une simple spéculation stérile, mais une exigence de liberté et de lucidité pour l'homme.
+
+#### **Section 2 : Explication détaillée, pièges et barème**
+
+* **Explication détaillée :** L'analyse ordonnée exige de suivre le texte pas à pas sans faire de paraphrase. Il faut expliquer le sens des expressions clés (« opinions reçues », « non savoir », « condition humaine dans son universalité ») et montrer comment l'argumentation progresse de l'utilité pratique vers la légitimité épistémologique.
+* **Pièges :** Confondre l'explication de texte avec une dissertation libre ; réciter des cours sur la philosophie sans s'appuyer sur le texte de Lacroix.
+* **Barème standard :** Compréhension du texte et des enjeux (6 pts), Analyse logique et argumentative (6 pts), Intérêt philosophique et discussion (6 pts), Présentation et correction de la langue (2 pts).
+
+---
+
+*Session : 2011 (Madagascar, Séries CD)* 
+

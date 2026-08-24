@@ -1,0 +1,188 @@
+please include the instructions that is found in the pdf image or the text in the section of each question if it got any instructions and use the images/pdf as a structural guide to know what to put where also both instructions and question should be in one section just that instructions  should be in bold while question no only if there is instruction otherwise question should be bold 
+
+PLEASE INCLUDE OR INSERT THE IMAGES AS REFERENCE TO THEIR RESPECTIVE QUESTIONS 
+
+is 2021
+
+---
+
+### **PREMIÈRE PARTIE : L’ÉVALUATION DES RESSOURCES (9 points)**
+
+#### **1- Dans une production cohérente de 10 à 15 lignes présente l’évolution de l’agriculture aux plans technique et culturel au Cameroun. (5 pts)**
+
+* **Section 1 : Réponse(s)/Développement**
+L'agriculture au Cameroun a connu une évolution significative tant sur le plan technique que culturel. Sur le plan technique, on assiste à une transition progressive, bien que timide, d'une agriculture traditionnelle rudimentaire (caractérisée par l'utilisation de la daba, la coutume de la jachère et la dépendance aux aléas climatiques) vers une agriculture plus moderne. Cette modernisation se traduit par l'introduction progressive de la mécanisation (motoculteurs, tracteurs dans certaines zones agro-industrielles comme le Nord ou les plaine aménagées), l'utilisation d'intrants chimiques (engrais, pesticides) et l'extension des techniques d'irrigation.
+Sur le plan culturel, les mentalités et les pratiques liées à la terre ont également évolué. Autrefois exclusivement vivrière, destinée à l'autoconsommation et basée sur des rites ancestraux de fertilité, l'agriculture camerounaise s'est fortement commercialisée et ouverte aux spéculations de rentes (cacao, café, coton, palmier à huile). De plus, on observe une diversification des cultures maraîchères et fruitières, ainsi qu'une implication croissante des jeunes et des femmes à travers des initiatives entrepreneuriales modernes, modifiant ainsi le statut socioculturel de l'agriculteur dans le pays.
+* **Réponse explicite :** L'agriculture camerounaise a évolué techniquement vers l'utilisation d'intrants et un début de mécanisation, et culturellement du tout-vivrier coutumier vers une agriculture de rente commercialisée et diversifiée.
+
+
+* **Section 2 : Explication détaillée et Barème**
+* **Explication détaillée :** La question demande de croiser deux dimensions (technique et culturelle) de l'évolution agricole. L'élève doit montrer comment les outils de production changent d'une part, et comment la perception, l'orientation et les habitudes des paysans se transforment d'autre part.
+* **Piège(s) ou difficulté(s) possibles :** Réduire le plan « culturel » à la simple culture des plantes au lieu d'aborder les aspects socioculturels, les mentalités et les habitudes paysannes ; ou dépasser le format de 10 à 15 lignes.
+* **Ce que l'examinateur veut voir :** Une structuration claire en paragraphes, le respect du volume demandé (10 à 15 lignes) et l'exactitude des arguments techniques et culturels adaptés au contexte camerounais.
+* **Répartition des points selon le barème OBC (5 pts) :**
+* Présentation rigoureuse de l'évolution sur le plan technique : **2 pts**
+* Présentation rigoureuse de l'évolution sur le plan culturel : **2 pts**
+* Cohérence de la forme et respect strict du volume (10 à 15 lignes) : **1 pt**
+
+
+
+
+
+---
+
+#### **2- Travaux pratiques : (4pts)**
+
+> Soit le tableau ci-après présentant l’évolution des effectifs du cheptel entre 2002 et 2004 au Cameroun.
+
+| Année | 2002 | 2003 | 2004 |
+| --- | --- | --- | --- |
+| **Bovins** | 3 469 300 | 3 562 900 | 3 620 000 |
+| **Ovins** | 2 323 400 | 2 386 100 | 2 450 000 |
+| **Caprins** | 2 628 200 | 2 699 100 | 2 772 000 |
+| **Porcins** | 524 000 | 632 036 | 760 493 |
+| **Volailles** | 11 774 500 | 11 608 492 | 13 015 578 |
+
+> Source : MINEPIA, 2004.
+
+> **1) Représente dans un cercle, sous forme de camembert, les effectifs du cheptel en 2004 au Cameroun. (Graphique = 0,75pt ; représentation 0,25pt x 5 = 1,25pt)**
+
+* **Section 1 : Réponse(s)/Développement**
+* **Calculs statistiques préalables (Année 2004) :**
+* Effectif total $= 3\,620\,000 + 2\,450\,000 + 2\,772\,000 + 760\,493 + 13\,015\,578 = 22\,618\,071$ têtes.
+* **Bovins :** $(3\,620\,000 / 22\,618\,071) \times 360^\circ \approx 57,6^\circ$
+* **Ovins :** $(2\,450\,000 / 22\,618\,071) \times 360^\circ \approx 39,0^\circ$
+* **Caprins :** $(2\,772\,000 / 22\,618\,071) \times 360^\circ \approx 44,1^\circ$
+* **Porcins :** $(760\,493 / 22\,618\,071) \times 360^\circ \approx 12,1^\circ$
+* **Volailles :** $(13\,015\,578 / 22\,618\,071) \times 360^\circ \approx 207,2^\circ$
+
+
+* **Réalisation graphique (Structure textuelle du diagramme circulaire) :**
+* Un cercle de référence partagé proportionnellement où la part des **Volailles** domine largement plus de la moitié du disque ($\approx 57,5\%$), suivie des **Bovins** ($\approx 16\%$), des **Caprins** ($\approx 12,3\%$), des **Ovins** ($\approx 10,8\%$) et des **Porcins** ($\approx 3,4\%$).
+
+
+* **Réponse explicite :** Le diagramme circulaire représentant le cheptel en 2004 met en évidence l'écrasante suprématie numérique des volailles par rapport aux autres types de bétail.
+
+
+* **Section 2 : Explication détaillée et Barème**
+* **Explication détaillée :** Pour construire le diagramme circulaire, il faut d'abord additionner toutes les valeurs de l'année 2004 pour obtenir le total général. Ensuite, on applique la règle de proportionnalité pour convertir chaque effectif en degrés d'angle ($(\text{Valeur partielle} / \text{Total}) \times 360^\circ$). Enfin, on reporte ces secteurs angulaires dans un cercle muni d'une légende.
+* Piège(s) ou difficulté(s)}} possibles : Erreur dans le calcul de la somme totale de 2004, confusion dans la formule de conversion en degrés, ou oubli de la légende et du titre du graphique.
+* **Ce que l'examinateur veut voir :** La rigueur des calculs mathématiques, la précision des parts proportionnelles et la propreté de la représentation graphique.
+* **Répartition des points selon le barème OBC (2 pts) :**
+* Réalisation correcte du graphique (cercle, proportions globales, structure) : **0,75 pt**
+* Représentation exacte de chaque secteur (0,25 pt $\times$ 5 catégories) : **1,25 pt**
+
+
+
+
+
+---
+
+> **2) Donne deux raisons qui justifient la part prépondérante des volailles. (1pt x 2 = 2pts)**
+
+* **Section 1 : Réponse(s)/Développement**
+* **Première raison : La rapidité du cycle de reproduction et la facilité d'élevage.** Contrairement aux grands ruminants (bovins), l'aviculture nécessite un investissement spatial réduit, un cycle de reproduction très court (permettant un renouvellement et une mise sur le marché rapides) et peut être pratiquée aussi bien en milieu urbain, périurbain que rural (aviculture traditionnelle ou moderne).
+* **Seconde raison : La forte demande sur le marché et l'accessibilité financière.** La viande de volaille (poulet de table et œufs) constitue la source de protéines animales la plus accessible et la moins chère pour les populations par rapport au bœuf ou au porc, ce qui stimule une production intensive pour répondre à la consommation locale croissante.
+* **Réponse explicite :** La prépondérance des volailles s'explique par la rapidité de leur cycle de production à faible coût d'espace et par l'accessibilité de leur viande sur le plan financier pour les ménages.
+
+
+* **Section 2 : Explication détaillée et Barème**
+* **Explication détaillée :** Identifier les facteurs socio-économiques et biologiques qui font de l'aviculture le secteur d'élevage le plus massif en termes d'effectifs numériques au Cameroun.
+* **Piège(s) ou difficulté(s) possibles :** Confondre l'élevage de volailles avec l'élevage extensif des bovins des zones sahéliennes.
+* **Ce que l'examinateur veut voir :** Des arguments logiques axés sur la rentabilité, la rapidité du cycle biologique et la consommation de masse.
+* **Répartition des points selon le barème OBC (2 pts) :**
+* Formulation de la première raison (cycle court / facilité d'élevage) : **1 pt**
+* Formulation de la seconde raison (accessibilité financière / forte demande en protéines) : **1 pt**
+
+
+
+
+
+---
+
+---
+
+### **DEUXIÈME PARTIE : L’ÉVALUATION DE L’AGIR COMPÉTENT (9 points)**
+
+**Thème : Participation à la mondialisation.**
+
+**Supports :**
+
+* **Document 1 : Les BRICS** (Texte décrivant le Brésil, la Russie, l'Inde et la Chine, leurs avantages comparatifs et leurs secteurs clés de leadership dans le commerce international : agriculture pour le Brésil, services pour l'Inde, produits manufacturiers pour la Chine). Source : *www.cairn.info*, consulté le 11/02/2021.
+* **Document 2 : Les contraintes du commerce international** (Texte soulignant les succès de l'Asie dans les services TIC et les difficultés persistantes de l'Afrique en raison des problèmes réglementaires, infrastructurelles, des coûts élevés et du manque de compétences). Source : *www.wto.org*, consulté le 11/02/2021.
+* **Document 3 : Le Nigéria dans le commerce mondial** (Deux diagrammes circulaires illustrant la structure des importations et des exportations du Nigéria en 2015 : Importations dominées par les produits manufacturiers à 57% ; Exportations dominées par le pétrole et les produits miniers à 76%).
+
+**Consigne :** Les documents ci-dessus présentent le problème de la faible présence des Africains sur le marché mondial. Rédige une production cohérente dont les grandes lignes reposent sur les tâches ci-dessous :
+
+---
+
+#### **Traitement de la tâche 1 : Présente le groupe des pays appelés BRICS. (3pts)**
+
+* **Section 1 : Réponse(s)/Développement**
+Le groupe des BRICS rassemble des puissances économiques émergentes majeures de la planète, constituées à l'origine du Brésil, de la Russie, de l'Inde et de la Chine (auxquelles s'est jointe l'Afrique du Sud par la suite). En raison de leur taille géographique et démographique considérable, ces pays se distinguent nettement des autres marchés émergents. Ils ont réussi à s'imposer comme de véritables leaders mondiaux dans des secteurs clés du commerce international, tels que l'agriculture pour le Brésil, l'aéronautique, les services pour l'Inde, et l'industrie manufacturière pour la Chine.
+* **Réponse explicite :** Les BRICS constituent un regroupement de grands marchés émergents (Brésil, Russie, Inde, Chine) qui s'imposent comme des acteurs incontournables et leaders du commerce mondial grâce à des spécialisations sectorielles affirmées.
+
+
+* **Section 2 : Explication détaillée et Barème**
+* **Explication détaillée :** Exploiter le Document 1 pour définir ce que sont les BRICS, en citant les pays membres et leur positionnement stratégique global dans l'économie internationale.
+* **Piège(s) ou difficulté(s) possibles :** Omettre de citer les pays qui composent l'acronyme ou ignorer leur rôle prépondérant dans la mondialisation.
+* **Ce que l'examinateur veut voir :** L'identification claire des pays membres et la compréhension de leur statut de géants émergents d'après le texte.
+* **Répartition des points selon le barème OBC (3 pts) :**
+* Identification correcte des membres du groupe des BRICS : **1,5 pt**
+* Caractérisation de leur poids et de leur positionnement de leaders mondiaux : **1,5 pt**
+
+
+
+
+
+---
+
+#### **Traitement de la tâche 2 : Explique pourquoi ces pays sont de plus en plus présents dans l’échange mondiaux. (3pts)**
+
+* **Section 1 : Réponse(s)/Développement**
+La présence accrue des BRICS dans les échanges mondiaux s'explique par l'exploitation optimale de leurs « avantages comparatifs » respectifs (Document 1). D'une part, la Chine s'appuie sur une main-d'œuvre extrêmement abondante et bon marché, garantissant une compétitivité redoutable à son industrie manufacturière. L'Inde mise sur une main-d'œuvre qualifiée et anglophone à bas salaire pour dominer les secteurs des services et des nouvelles technologies.
+D'autre part, le Brésil tire profit d'immenses espaces cultivables et d'une grande diversité de productions agricoles, ce qui lui vaut le qualificatif de « ferme du monde » (Document 1). Ces atouts structurels combinés à une production de masse permettent à ces nations de capter une part considérable des flux commerciaux internationaux, contrastant fortement avec les difficultés rencontrées par les pays en développement d'autres régions comme l'Afrique (Document 2).
+* **Réponse explicite :** Ces pays renforcent leur présence mondiale en exploitant leurs avantages comparatifs distincts, tels que la main-d'œuvre abondante et bon marché (Chine, Inde) ou les immenses ressources agricoles et spatiales (Brésil).
+
+
+* **Section 2 : Explication détaillée et Barème**
+* **Explication détaillée :** Mettre en relation les données du Document 1 pour expliquer les ressorts économiques précis (main-d'œuvre, ressources, spécialisation) qui propulsent ces pays au sommet du commerce mondial.
+* **Piège(s) ou difficulté(s) possibles :** Faire une description générale sans lier les explications aux concepts précis d'avantages comparatifs et de dotations factorielles mentionnés dans le texte.
+* **Ce l'examinateur veut voir :** L'explication argumentée reposant sur l'utilisation des facteurs de production (travail, terres) propres à chaque pays membre des BRICS.
+* **Répartition des points selon le barème OBC (3 pts) :**
+* Explication fondée sur l'avantage de la main-d'œuvre et de l'industrie (Chine/Inde) : **1,5 pt**
+* Explication fondée sur l'avantage des ressources naturelles et agricoles (Brésil) : **1,5 pt**
+
+
+
+
+
+---
+
+#### **Traitement de la tâche 3 : Face aux contraintes du commerce international, recommande deux solutions pertinentes pouvant permettre à l’Afrique de s’adapter à la nouvelle donne économique mondiale. (3pts)**
+
+* **Section 1 : Réponse(s)/Développement**
+Face aux barrières et aux contraintes qui marginalisent le continent africain dans les échanges mondiaux (telles que relevées dans le Document 2, notamment les problèmes réglementaires, les carences infrastructurelles, les coûts élevés et le manque de qualifications), il est indispensable d'adopter des solutions stratégiques rigoureuses :
+* **Première solution : Le développement et la modernisation des infrastructures de transport et des technologies de l'information et de la communication (TIC).** L'amélioration des réseaux énergétiques, portuaires, routiers et numériques permettra de réduire drastiquement les coûts de transaction et de transport, favorisant ainsi l'intégration des économies africaines dans le commerce mondial des services et des biens manufacturés.
+* **Seconde solution : L'investissement massif dans l'éducation, la formation professionnelle et l'harmonisation réglementaire (notamment via la Zone de Libre-Échange Continentale Africaine - ZLECAf).** Il s'agit de doter la jeunesse africaine de compétences qualifiées adaptées aux exigences technologiques mondiales, tout en levant les barrières douanières et bureaucratiques intérieures pour stimuler la production locale et la compétitivité industrielle sur le marché international.
+* **Réponse explicite :** Les deux solutions recommandées consistent à développer les infrastructures de base (transport et TIC) pour réduire les coûts commerciaux, et à investir dans l'éducation qualifiante tout en consolidant l'intégration économique continentale.
+
+
+* **Section 2 : Explication détaillée et Barème**
+* **Explication détaillée :** Proposer des mesures concrètes en réponse directe aux freins identifiés dans le Document 2 (infrastructures, compétences, réglementation) pour permettre à l'Afrique de s'insérer efficacement dans la mondialisation à l'instar des pays asiatiques ou des BRICS.
+* **Piège(s) ou difficulté(s) possibles :** Proposer des solutions abstraites ou déconnectées des réalités économiques et des contraintes spécifiques mentionnées dans le dossier documentaire.
+* **Ce que l'examinateur veut voir :** La pertinence des recommandations axées sur les infrastructures, la formation des compétences et la levée des barrières réglementaires.
+* **Répartition des points selon le barème OBC (3 pts) :**
+* Formulation et justification de la première solution (infrastructures et réduction des coûts) : **1,5 pt**
+* Formulation et justification de la seconde solution (capital humain, compétences et cadres réglementaires) : **1,5 pt**
+
+
+
+
+
+---
+
+#### **CRITÈRE DE PERFECTIONNEMENT : (2 pts)**
+
+* **Harmonie des transitions entre les parties :** **1 pt** ($0,5\text{ pt} \times 2$) assurant la liaison logique des idées.
+* **Présentation générale de la copie et respect des consignes formelles :** **1 pt** ($0,5\text{ pt}$ pour la propreté de la mise en page et $0,5\text{ pt}$ pour le respect des structures exigées).

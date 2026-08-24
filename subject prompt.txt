@@ -1,0 +1,46 @@
+RÉSOUS TOUTES LES QUESTIONS DE SCIENCES DE LA VIE ET DE LA TERRE ET LES PROBLÈMES PRATIQUES DE L'ÉPREUVE FOURNIE EN 2 SECTIONS.**
+
+Merci d'inclure toute instruction, contexte, document, donnée ou information au niveau de la section, de l'exercice ou de la question, trouvée dans le document, juste avant la question correspondante. L'épreuve contient, par exemple, **Partie A : Évaluation des Ressources**, **Partie B : Évaluation des Compétences**, des exercices tels que **Évaluation des Savoirs**, **Évaluation des Savoir-faire et/ou Savoir-être**, ainsi qu'une **Situation-Problème** avec documents et consignes à l'appui.
+
+**La Section 1 et la Section 2 doivent apparaître immédiatement en dessous de chaque question**, avant de passer à la question suivante. Ne mets pas toute la Section 1 d'abord puis toute la Section 2 ensuite.
+
+Pour chaque question, la structure doit être :
+
+**Numéro de la question → Instruction(s)/Contexte/Donnée(s)/Document(s), le cas échéant → Question → Section 1 : Solution(s) → Réponse explicite → Section 2 : Explication détaillée → Piège(s) ou difficulté(s) possibles → Ce que l'examinateur veut voir → Répartition des points pour chaque étape/solution selon le barème OBC.**
+
+---
+
+### Directives principales :
+
+1. **Section 1 (Solutions et Réponses) :**
+
+* Fournir des solutions complètes, rigoureuses et étape par étape pour chaque question de SVT.
+* Pour les questions à interprétation de résultats (génétique, croisements, électrophorèse), montrer clairement le raisonnement, les proportions, les rapports statistiques et la conclusion.
+* Pour les questions de physiologie (immunité, système musculaire, ATP), fournir les mécanismes biologiques exacts, les schémas fonctionnels et la terminologie correcte.
+* Pour les exercices de rédaction (causerie éducative, exposé, texte de 10 lignes), rédiger une réponse modèle complète et bien structurée respectant le nombre de lignes demandé.
+* Si possible, inclure plus d'une méthode valable de résolution.
+* Afficher explicitement la réponse finale (numérique, génétique, schématique ou rédactionnelle) à la fin de chaque solution.
+
+2. **Section 2 (Explications, Pièges et Barème) :**
+
+* **Explication détaillée :** Expliquer clairement et minutieusement comment la réponse a été obtenue, afin que les élèves ayant des difficultés en SVT puissent facilement suivre le raisonnement.
+* **Pièges et difficultés :** Identifier les pièges potentiels, erreurs d'interprétation des documents, confusions génétiques (dominance, liaison, ségrégation), erreurs de vocabulaire scientifique, erreurs de structuration de la rédaction, ou difficultés expérimentales.
+* **Barème OBC :** Indiquer explicitement ce que l'examinateur attend de voir avant d'accorder les points complets, et fournir une répartition détaillée du barème selon la norme **OBC (Office du Baccalauréat du Cameroun)** pour chaque étape de la solution, y compris les grilles d'évaluation (Pertinence de la production, Maîtrise des connaissances scientifiques, Cohérence de la production) lorsqu'elles sont fournies dans l'épreuve.
+* Pour les tâches pratiques ou basées sur les compétences, expliquer la démarche attendue, le raisonnement scientifique, les mécanismes biologiques impliqués et les éléments requis pour l'obtention de la totalité des points. L'épreuve précise notamment que les réponses rédactionnelles doivent respecter le nombre de lignes indiqué et établir les liens scientifiques demandés.
+
+3. **Fidélité et numérotation des questions :**
+
+* **Chaque numéro de question doit être exactement identique à celui de l'épreuve originale de SVT** (par exemple, 1, 2, 3, 4, 1a, 1b, 2a, 2b, Consigne 1, Consigne 2, Consigne 3, etc.).
+* Ne pas modifier, renuméroter, réorganiser, combiner ou omettre une question ou sous-question.
+* Conserver l'organisation originale de l'épreuve, y compris **Partie A**, **Partie B**, les titres d'exercices, la **Situation-Problème** et l'ordre des questions.
+* Ne sauter aucun exercice, situation-problème, question, sous-question, instruction, document ou donnée fournie.
+* Conserver toutes les valeurs numériques, données génétiques, effectifs, pourcentages, tableaux et autres informations exactement telles que fournies dans l'épreuve. Par exemple, l'épreuve fournit des données spécifiques telles que les effectifs de croisement F2, les résultats d'électrophorèse et les grilles d'évaluation qui doivent être utilisés dans les questions correspondantes.
+
+4. **Langue et format de sortie :**
+
+* Tout doit être rédigé en **français**.
+* La réponse doit être fournie sous **forme de texte**, et non sous forme de document téléchargeable ou de fichier de code.
+* Utiliser une terminologie de SVT appropriée pour le **Baccalauréat camerounais, Séries D et ESG**.
+* Ne sauter aucun exercice, situation-problème, question, sous-question, instruction, contexte, document ou information fournie dans l'épreuve.
+* Conserver la structure et la séquence exactes de l'épreuve originale tout en fournissant les solutions complètes, les explications, les pièges, les attentes de l'examinateur et le barème OBC.
+* Indiquer, au début ou à la fin, la session/date de l'épreuve SOLVE EVERYTHING IN THE DOCUMENT PLEASE BOTH SUJET 1 AND SUJET 2 IF THEY ARE STRUCTURE LIKE THAT 

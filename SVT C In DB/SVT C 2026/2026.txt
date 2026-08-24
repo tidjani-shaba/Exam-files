@@ -1,0 +1,235 @@
+please include the instructions that is found in the pdf image or the text in the section of each question if it got any instructions and use the images/pdf as a structural guide to know what to put where also both instructions and question should be in one section just that instructions  should be in bold while question no only if there is instruction otherwise question should be bold 
+
+PLEASE INCLUDE OR INSERT THE IMAGES AS REFERENCE TO THEIR RESPECTIVE QUESTIONS 
+
+is 2026
+
+
+**PROBATOIRE ESG — Série C et TI — Épreuve de SVTEEHB — Session 20…. — Durée 2h — Coefficient 2**
+
+---
+
+## PARTIE A : ÉVALUATION DES RESSOURCES — 10 points
+
+### I/ ÉVALUATION DES SAVOIRS (4 points)
+
+### Exercice 1 : Questions à Réponses Ouvertes (QRO) — 2 pts
+
+**Contexte :** Pour maintenir son intégrité, l'organisme préserve ce qui lui appartient (le soi) et combat ce qui ne lui appartient pas (le non soi).
+
+**1) Définir le mot et l'expression suivants : soi ; non soi (0,5 pt × 2 = 1 pt)**
+
+**Section 1 : Solution**
+- **Soi** : ensemble des constituants (molécules, cellules, tissus) propres à un organisme, reconnus comme siens par son système immunitaire et normalement tolérés par celui-ci.
+- **Non-soi** : ensemble des éléments étrangers à l'organisme (antigènes, agents pathogènes, cellules greffées, cellules anormales/cancéreuses), reconnus comme différents du soi et normalement combattus par le système immunitaire.
+
+**Section 2 : Explication détaillée**
+Le soi correspond aux marqueurs biologiques (notamment les molécules du CMH) présents à la surface de toutes les cellules de l'individu, permettant au système immunitaire de les identifier comme siennes. Le non-soi regroupe tout ce qui porte des marqueurs différents (antigènes étrangers), déclenchant une réponse immunitaire.
+
+**Pièges possibles :** confondre « soi » avec « système immunitaire » lui-même ; donner une définition trop vague sans mentionner la notion de reconnaissance/tolérance immunitaire.
+
+**Ce que l'examinateur veut voir :** définition précise centrée sur la notion de reconnaissance immunitaire pour chaque terme.
+
+**Barème OBC :** 0,5 pt (soi) + 0,5 pt (non-soi) = 1 pt.
+
+---
+
+**2) Citer un déterminant moléculaire majeur du soi et un élément du non-soi (0,5 pt × 2 = 1 pt)**
+
+**Section 1 : Solution**
+- **Déterminant moléculaire majeur du soi** : le CMH (Complexe Majeur d'Histocompatibilité), ou HLA (Human Leukocyte Antigen) chez l'Homme.
+- **Élément du non-soi** : un antigène (ex. antigène microbien, protéine d'un agent pathogène, molécule de greffon incompatible, etc.).
+
+**Section 2 : Explication détaillée**
+Le CMH/HLA est une glycoprotéine membranaire présente à la surface de presque toutes les cellules nucléées de l'organisme ; sa combinaison est unique à chaque individu (sauf vrais jumeaux) et constitue la « carte d'identité biologique » permettant au système immunitaire de distinguer le soi du non-soi. Tout élément ne portant pas ce marqueur propre à l'individu (ou porteur d'un marqueur étranger) est reconnu comme non-soi et peut déclencher une réponse immunitaire.
+
+**Pièges possibles :** confondre CMH et anticorps ; citer un élément du soi (comme une cellule de l'organisme) comme exemple de non-soi ; donner un exemple trop vague (« un microbe ») sans identifier clairement l'antigène comme déterminant du non-soi.
+
+**Ce que l'examinateur veut voir :** CMH/HLA (ou équivalent) cité pour le soi ; un antigène clairement identifié pour le non-soi.
+
+**Barème OBC :** 0,5 pt (déterminant du soi) + 0,5 pt (élément du non-soi) = 1 pt.
+
+---
+
+### Exercice 2 : Exploitation de Documents — 2 pts
+
+**Document 1 (deux phénomènes producteurs d'énergie) :**
+- Glucose (C₆H₁₂O₆), énergie potentielle 2840 kJ/mole → **Phénomène 1** → 2 CO₂ + 2 C₂H₅OH (éthanol), énergie potentielle 1360 kJ/mole d'éthanol
+- Glucose (C₆H₁₂O₆), énergie potentielle 2840 kJ/mole → **Phénomène 2** → 6 CO₂ + 6 H₂O, énergie potentielle 0 kJ/mole
+
+**Question : Nommer, en argumentant votre réponse, les phénomènes 1 et 2 à partir des informations fournies par le document et des connaissances acquises. ((0,5×2)×2 = 2 pts)**
+
+**Section 1 : Solution**
+
+**Phénomène 1 : la fermentation alcoolique**
+Argumentation : le glucose est dégradé de façon incomplète en CO₂ et en éthanol (C₂H₅OH), un composé organique qui conserve encore une grande partie de l'énergie potentielle initiale (1360 kJ/mole d'éthanol sur les 2840 kJ/mole de départ) : la dégradation du glucose n'est donc pas totale, ce qui est caractéristique d'une fermentation, réaction anaérobie incomplète.
+
+**Phénomène 2 : la respiration cellulaire**
+Argumentation : le glucose est entièrement dégradé en produits minéraux (CO₂ et H₂O), avec une énergie potentielle résiduelle nulle (0 kJ/mole), ce qui signifie que la totalité de l'énergie chimique du glucose a été libérée/exploitée. Cette dégradation totale et complète, aboutissant à des produits entièrement minéralisés, est caractéristique de la respiration cellulaire (réaction généralement aérobie).
+
+**Section 2 : Explication détaillée**
+Le critère de distinction clé fourni par le document est le **bilan énergétique** : dans le phénomène 1, il reste de l'énergie potentielle stockée dans le produit organique final (éthanol), preuve d'une dégradation incomplète (fermentation) ; dans le phénomène 2, l'énergie potentielle finale est nulle, preuve d'une dégradation totale du glucose en produits minéraux (CO₂, H₂O), caractéristique de la respiration.
+
+**Pièges possibles :** inverser fermentation et respiration ; ne pas exploiter le bilan énergétique fourni par le document (se contenter de dire « c'est différent » sans argumenter avec les kJ/mole) ; oublier de nommer précisément « fermentation alcoolique » (et non juste « fermentation »).
+
+**Ce que l'examinateur veut voir :** nom exact du phénomène + argumentation appuyée sur les données chiffrées du document (énergie potentielle) pour chacun des deux phénomènes.
+
+**Barème OBC :** (0,5 pt nom + 0,5 pt argumentation) × 2 phénomènes = 2 pts.
+
+---
+
+### II/ ÉVALUATION DES SAVOIR-FAIRE — 6 points
+
+**Consigne générale :** Utiliser les données expérimentales liées à la fusion des péridotites pour expliquer la naissance du magma des dorsales et identifier les roches magmatiques sur lames minces.
+
+**Document 2 :** Diagramme pression-température présentant le solidus sec, le liquidus, et les domaines « Solide », « Partiellement fondu », « Fondu », ainsi que les mouvements probables des péridotites sèches (solides) en profondeur (flèche verticale ascendante).
+
+**1- Après avoir précisé les conditions requises pour une fusion partielle des péridotites et sachant qu'à l'aplomb d'une dorsale les péridotites solides échangent peu de chaleur avec les roches environnantes au cours de leur ascension, expliquer la formation du magma dans cette zone. ((0,5×2)+1 pt = 2 pts)**
+
+**Section 1 : Solution**
+
+*Conditions requises pour la fusion partielle des péridotites :* Il faut que les conditions de pression et de température du manteau dépassent le **solidus** (ligne en dessous de laquelle la roche reste solide) : soit une augmentation de température, soit une diminution de pression (décompression), pour atteindre le domaine « partiellement fondu » situé entre solidus et liquidus.
+
+*Explication de la formation du magma à l'aplomb d'une dorsale :*
+À l'aplomb d'une dorsale, les péridotites chaudes et solides du manteau remontent (mouvement ascendant, convection mantellique). Cette remontée s'effectue **rapidement, sans échange de chaleur notable avec les roches environnantes** : c'est une remontée **adiabatique** (à température quasi constante). Or, en remontant, la **pression diminue** progressivement (la pression lithostatique diminue avec la diminution de la profondeur), alors que la température reste presque constante. La courbe représentant ce trajet (température constante, pression décroissante) finit par **croiser le solidus sec** : à ce point, les péridotites entrent dans le domaine « partiellement fondu », ce qui déclenche la **fusion partielle** de la roche. C'est cette fusion partielle qui donne naissance au magma basaltique des dorsales, sans qu'il soit nécessaire d'apporter de la chaleur supplémentaire — c'est la **décompression adiabatique** qui est le moteur de la fusion.
+
+**Section 2 : Explication détaillée**
+Il faut faire comprendre à l'élève que ce n'est pas une hausse de température qui provoque la fusion sous les dorsales (puisqu'il n'y a pas d'échange de chaleur), mais uniquement la **baisse de pression** liée à la remontée du manteau, qui fait franchir le seuil du solidus à température quasiment inchangée. C'est le principe de la **fusion partielle par décompression adiabatique**.
+
+**Pièges possibles :** invoquer une augmentation de température (erreur fréquente) alors que l'énoncé précise qu'il n'y a pas d'échange de chaleur ; oublier de mentionner le franchissement du solidus comme condition déclenchante ; confondre solidus et liquidus.
+
+**Ce que l'examinateur veut voir :** conditions de fusion partielle correctement énoncées (franchissement du solidus) ; explication complète du mécanisme de décompression adiabatique propre aux dorsales.
+
+**Barème OBC :** 0,5 + 0,5 (conditions) + 1 pt (explication du mécanisme à la dorsale) = 2 pts.
+
+---
+
+**Document 3 : Figure A et Figure B (lames minces des roches A et B)**
+- **Figure A** : présente Olivine, Microlites de Feldspaths, Pâte amorphe (texture microlitique/vitreuse)
+- **Figure B** : présente Olivine, Feldspath, Pyroxène (texture grenue, cristaux bien formés et jointifs)
+
+**2- À partir des informations contenues dans le document et des connaissances acquises sur la structure des roches plutoniques et celle des roches volcaniques qui sont toutes des roches magmatiques, identifier chacune des roches A et B. ((1×2)×2 = 4 pts)**
+
+**Section 1 : Solution**
+
+**Roche A : le basalte** (roche volcanique/effusive)
+Justification : la lame mince montre de gros cristaux d'olivine (phénocristaux) noyés dans une **pâte amorphe** (verre non cristallisé) parsemée de **microlites de feldspaths** (petits cristaux mal formés) : cette texture **microlitique** (voire microlitique-vitreuse), avec coexistence de phénocristaux, microlites et verre, est caractéristique d'un refroidissement rapide en surface (roche volcanique), typique du basalte.
+
+**Roche B : le gabbro** (roche plutonique/intrusive)
+Justification : la lame mince montre des cristaux d'olivine, de feldspath et de pyroxène tous bien développés, jointifs et de grande taille, formant une texture **grenue** (holocristalline), sans verre ni pâte amorphe : cette texture est caractéristique d'un refroidissement lent en profondeur (roche plutonique), typique du gabbro (équivalent plutonique du basalte, même composition minéralogique : olivine + pyroxène + feldspath).
+
+**Section 2 : Explication détaillée**
+Le critère de distinction est la **texture**, reflet de la **vitesse de refroidissement** :
+- Refroidissement rapide (en surface, contact avec l'air/l'eau) → pas le temps de cristalliser complètement → texture microlitique avec pâte vitreuse/amorphe → **roche volcanique** (Figure A = basalte).
+- Refroidissement lent (en profondeur) → temps suffisant pour que tous les minéraux cristallisent complètement et deviennent jointifs → texture grenue (holocristalline) → **roche plutonique** (Figure B = gabbro).
+Basalte et gabbro ont la même composition chimique/minéralogique globale (roches magmatiques basiques dérivées du même magma issu de la fusion des péridotites), mais des textures différentes selon leur contexte de mise en place.
+
+**Pièges possibles :** confondre roche volcanique et roche plutonique en se basant uniquement sur les minéraux présents (qui sont similaires) sans regarder la texture ; ne pas nommer précisément « basalte » et « gabbro » (rester à « roche volcanique »/« roche plutonique » sans preciser le nom) ; inverser A et B.
+
+**Ce que l'examinateur veut voir :** identification nominale correcte de chaque roche (basalte pour A, gabbro pour B) + justification basée sur la texture (microlitique vs grenue) pour chacune.
+
+**Barème OBC :** (1 pt identification + 1 pt justification texture) × 2 roches = 4 pts.
+
+---
+
+## PARTIE B : ÉVALUATION DES COMPÉTENCES — 10 points
+
+**Compétence ciblée :** Lutter contre la mauvaise alimentation et l'inactivité physique.
+
+**Situation-problème :** Mme KOTTOS produit domestiquement du yaourt qu'elle vend à la cantine de l'établissement pour se faire de l'argent et subvenir aux besoins de sa famille. Son fils Pius se nourrit régulièrement du yaourt produit par sa mère, accompagné de gâteaux, de biscuits et bien d'autres friandises que vend sa mère. Pius n'a que 10 ans, mesure 1m50 et pèse déjà 75 kg, ce qui inquiète ses parents qui ne comprennent pas cette augmentation vertigineuse du poids de leur enfant, pourtant ils pensent que leur enfant est bien nourri. En tant qu'élève de première C/TI, tu es appelé à apporter d'amples explications à Madame KOTTOS et à son entourage sur la lutte contre la mauvaise alimentation et l'inactivité physique.
+
+---
+
+**Consigne 1 : Dans un texte de 10 lignes, explique à Madame KOTTOS et à son entourage l'origine du surpoids de Pius et présente deux moyens pour y remédier. (3,5 pts)**
+
+**Section 1 : Solution — Texte modèle (≈10 lignes)**
+
+> Le surpoids de Pius, avec 75 kg pour seulement 1m50 à l'âge de 10 ans, s'explique par un déséquilibre entre les apports énergétiques et les dépenses énergétiques de son organisme. En consommant régulièrement du yaourt accompagné de gâteaux, de biscuits et d'autres friandises, Pius absorbe une quantité excessive de sucres rapides et de graisses, largement supérieure à ses besoins énergétiques réels. L'organisme stocke alors cet excès d'énergie non dépensé sous forme de graisses de réserve (tissu adipeux), ce qui entraîne une prise de poids continue. Contrairement à ce que pensent ses parents, une alimentation abondante et riche en aliments sucrés/gras n'est pas synonyme de « bien nourri » : la qualité et l'équilibre nutritionnel comptent plus que la quantité. Pour remédier à cette situation, il faudrait d'abord réduire la consommation de friandises, gâteaux et biscuits au profit d'une alimentation équilibrée et diversifiée (fruits, légumes, protéines maigres, céréales). Ensuite, il est indispensable d'encourager Pius à pratiquer une activité physique régulière (jeux actifs, sport, marche) afin d'augmenter ses dépenses énergétiques et de rétablir l'équilibre entre apports et dépenses.
+
+**Section 2 : Explication détaillée**
+Le texte doit établir le lien : excès d'apports caloriques (sucres, graisses des friandises) > dépenses énergétiques → stockage sous forme de graisse → surpoids/obésité infantile. Il faut aussi corriger la fausse croyance des parents (« bien nourri » = quantité, alors qu'il s'agit d'un problème de qualité/équilibre alimentaire), puis proposer deux moyens concrets : rééquilibrage alimentaire et activité physique.
+
+**Pièges possibles :** ne pas relever l'erreur de perception des parents (penser que manger beaucoup = bien nourri) ; ne proposer qu'un seul moyen au lieu de deux ; ne pas expliquer le mécanisme du déséquilibre apports/dépenses énergétiques ; dépasser ou ne pas respecter les 10 lignes.
+
+**Ce que l'examinateur veut voir :** explication scientifique claire de l'origine du surpoids (déséquilibre apports/dépenses), deux moyens concrets et pertinents, texte structuré et respectant le format demandé.
+
+**Barème OBC (grille d'évaluation) :**
+- Pertinence de la production : 1 pt
+- Maîtrise des connaissances : 2 pts
+- Cohérence dans la production : 0,5 pt
+- **Total : 3,5 pts**
+
+---
+
+**Consigne 2 : Conçois une affiche dans laquelle tu présentes les conditions d'établissement d'un régime alimentaire équilibré et propose un menu adapté à Pius en vous appuyant sur les grands groupes d'aliments et les portions recommandées. (3,5 pts)**
+
+**Section 1 : Solution — Modèle d'affiche**
+
+```
+╔═══════════════════════════════════════════╗
+║   POUR UNE ALIMENTATION ÉQUILIBRÉE         ║
+║          DE PIUS !                         ║
+║                                             ║
+║  CONDITIONS D'UN RÉGIME ÉQUILIBRÉ :        ║
+║  ✓ Varier les groupes d'aliments           ║
+║    (bâtisseurs, énergétiques, protecteurs) ║
+║  ✓ Respecter les portions adaptées à       ║
+║    l'âge et à l'activité de l'enfant       ║
+║  ✓ Répartir les repas dans la journée      ║
+║    (petit-déjeuner, déjeuner, dîner)       ║
+║  ✓ Limiter les sucres et graisses en       ║
+║    excès (friandises, biscuits)            ║
+║                                             ║
+║  MENU ADAPTÉ À PIUS :                      ║
+║  🌅 Petit-déjeuner : lait ou bouillie de   ║
+║     céréales + fruit frais                 ║
+║  ☀️ Déjeuner : féculents (riz/tubercule,   ║
+║     ½ assiette) + légumes (¼ assiette) +   ║
+║     protéines maigres/poisson (¼ assiette) ║
+║  🌙 Dîner : légumes + petite portion de    ║
+║     protéines + fruit                      ║
+║                                             ║
+║  (Éviter yaourt sucré + gâteaux/biscuits   ║
+║   en collation systématique)               ║
+╚═══════════════════════════════════════════╝
+```
+
+**Section 2 : Explication détaillée**
+L'affiche doit présenter clairement les conditions d'un régime équilibré (variété des groupes d'aliments — bâtisseurs/protéines, énergétiques/glucides-lipides, protecteurs/vitamines-minéraux —, portions adaptées, régularité des repas) puis proposer un menu concret et réaliste pour Pius, en veillant à réduire les apports en sucres/graisses excessifs identifiés dans la situation-problème (yaourt + friandises).
+
+**Pièges possibles :** proposer un menu sans lien avec les grands groupes d'aliments demandés ; oublier de mentionner les portions recommandées ; faire un texte classique au lieu d'une véritable affiche visuelle et synthétique.
+
+**Ce que l'examinateur veut voir :** support de type affiche, conditions d'équilibre alimentaire correctement énoncées, menu concret basé sur les groupes d'aliments et portions adaptées à l'âge de Pius.
+
+**Barème OBC (grille d'évaluation) :**
+- Pertinence de la production : 1 pt
+- Maîtrise des connaissances : 2 pts
+- Cohérence dans la production : 0,5 pt
+- **Total : 3,5 pts**
+
+---
+
+**Consigne 3 : Propose un slogan qui met en exergue l'importance d'une alimentation saine et équilibrée dans la réduction de la survenue des maladies nutritionnelles. (3 pts)**
+
+**Section 1 : Solution**
+
+Slogan proposé : **« Une alimentation saine aujourd'hui, une santé solide pour toujours ! »**
+
+(Variante possible : « Mangeons équilibré, vivons en bonne santé ! »)
+
+**Section 2 : Explication détaillée**
+Un bon slogan doit être court, percutant, mémorable, et établir clairement le lien de cause à effet entre une alimentation saine/équilibrée et la prévention des maladies nutritionnelles (obésité, diabète, malnutrition, etc.), en cohérence avec la situation-problème de Pius.
+
+**Pièges possibles :** proposer un slogan trop long ou trop vague, sans lien explicite avec la prévention des maladies nutritionnelles ; oublier la dimension « équilibrée » (se limiter à « manger sainement » sans notion d'équilibre entre groupes d'aliments).
+
+**Ce que l'examinateur veut voir :** slogan court, mémorable, établissant clairement le lien alimentation saine/équilibrée → prévention des maladies nutritionnelles.
+
+**Barème OBC (grille d'évaluation) :**
+- Pertinence de la production : 1 pt
+- Maîtrise des connaissances : 1,5 pt
+- Cohérence dans la production : 0,5 pt
+- **Total : 3 pts**
+
+---
+
+**TOTAL GÉNÉRAL : Partie A (10 pts) + Partie B (10 pts) = 20 points**

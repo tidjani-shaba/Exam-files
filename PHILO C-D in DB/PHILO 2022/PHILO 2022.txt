@@ -1,0 +1,112 @@
+please include the instructions that is found in the pdf image or the text in the section of each question if it got any instructions and use the images/pdf as a structural guide to know what to put where also both instructions and question should be in one section just that instructions  should be in bold while question no only if there is instruction otherwise question should be bold 
+
+is 2022
+
+Voici la résolution complète de l'épreuve de philosophie, structurée selon vos exigences et conforme aux attentes du système éducatif camerounais (OBC).
+
+---
+
+### **I. Première partie : L’évaluation des ressources (09 pts)**
+
+**Texte :** « La justice est une disposition d’après laquelle l’homme juste se définit comme celui qui est apte à accomplir, par choix délibéré, ce qui est juste, celui qui, dans une répartition à effectuer soit entre lui-même et un autre, soit entre deux autres personnes, n'est pas homme à s’attribuer à lui-même, dans le bien désiré, une part trop forte et à son voisin une part trop faible (ou l’inverse, s’il s’agit d’un dommage à partager) mais donne à chacun la part proportionnellement égale qui lui revient, et qui agit de la même façon quand la répartition se fait entre des tiers.. L’injustice, en sens opposé, a pareillement rapport à ce qui est injuste, et qui consiste dans un excès ou un défaut disproportionné de ce qui est avantageux ou dommageable. C’est pourquoi l’injustice est un excès et un défaut en ce sens qu’elle est génératrice d’excès et défauts »
+*Aristote (384-322 av J-C). Éthique à Nicomaque traduction de J. Tricot. Ed Vrin. 1938, 1 134 a.p. 246*
+
+---
+
+#### **A.1 L’évaluation des savoirs**
+
+**Question :** Définis les concepts et expressions suivants : Justice, choix délibéré, injustice (3 pts)
+
+**Section 1 : Réponse(s)/Développement**
+
+* **Justice :** Chez Aristote, la justice est une vertu morale et sociale. Elle désigne la disposition habituelle (hexis) à agir conformément à la loi et à respecter l'égalité (l'équité), en donnant à chacun ce qui lui revient dans la répartition des biens ou des charges.
+* **Choix délibéré (Prohairesis) :** C’est un acte volontaire, réfléchi et rationnel. Il ne s'agit pas d'un simple désir impulsif, mais d'une décision prise après une délibération, engageant la responsabilité morale de l'individu.
+* **Injustice :** C’est le vice opposé à la vertu de justice. Elle consiste à rompre l'équilibre par l'excès (prendre plus que sa part) ou par le défaut (prendre moins qu'il ne faut pour soi, ou subir une part indue), créant ainsi une disproportion nuisible à l'harmonie sociale.
+
+**Réponse explicite :** La justice est la vertu de l'équilibre rationnel ; le choix délibéré est l'acte volontaire réfléchi ; l'injustice est le déséquilibre (excès ou défaut).
+
+**Section 2 : Explication détaillée, pièges et barème**
+
+* **Explication :** Il faut mettre en avant l'aspect "médian" de la justice chez Aristote (la justice est un juste milieu).
+* **Pièges :** Confondre la justice comme simple obéissance à la loi (justice légale) avec la justice comme vertu morale (justice distributive).
+* **Barème OBC :** 1 pt par définition. La précision terminologique (référence à la vertu et à l'équilibre) est requise pour la note maximale.
+
+---
+
+#### **A.2 L’évaluation des savoir-faire**
+
+**Première question :** Dégage le thème et le problème philosophique de ce texte (2 pts)
+
+**Section 1 : Réponse(s)/Développement**
+
+* **Thème :** La nature de la justice et de l'injustice.
+* **Problème :** En quoi consiste l'essence de la justice et par quel mécanisme l'individu juste se distingue-t-il de l'homme injuste dans la répartition des biens ?
+
+**Réponse explicite :** Le thème est la justice comme vertu ; le problème est celui de la définition de l'acte juste dans le rapport à autrui.
+
+**Section 2 : Explication détaillée, pièges et barème**
+
+* **Explication :** Le thème est le domaine général (la justice), le problème est la contradiction ou la question sous-jacente (comment agir concrètement de manière juste ?).
+* **Pièges :** Confondre le thème avec le titre ou la thèse.
+* **Barème OBC :** 1 pt pour le thème, 1 pt pour le problème.
+
+---
+
+**Deuxième question :** Dégage la thèse de l’auteur (1 pt)
+
+**Section 1 : Réponse(s)/Développement**
+La thèse d’Aristote est que la justice est une vertu qui se manifeste par un choix délibéré et rationnel consistant à maintenir une juste proportion (l'égalité) dans la répartition des biens et des maux.
+
+**Section 2 : Explication détaillée, pièges et barème**
+
+* **Explication :** La thèse est l'idée centrale que l'auteur veut démontrer. Ici, c'est le lien entre vertu, choix et proportion.
+* **Pièges :** Résumer le texte au lieu d'énoncer la position de l'auteur.
+* **Barème OBC :** 1 pt pour une formulation claire de la position de l'auteur.
+
+---
+
+**Troisième question :** Décline la structure logique du texte (3 pts)
+
+**Section 1 : Réponse(s)/Développement**
+
+* **Postulat (Lignes 1-2) :** L'homme juste est défini par sa disposition à faire le choix délibéré du juste.
+* **Arguments (Lignes 2-7) :** L'auteur explicite ce choix par l'exemple de la répartition : le juste refuse l'excès et le défaut pour privilégier l'égalité proportionnelle.
+* **Conclusion (Lignes 7-9) :** L'injustice est définie par opposition comme une rupture de cette proportion, devenant ainsi la source génératrice du déséquilibre.
+
+**Section 2 : Explication détaillée, pièges et barème**
+
+* **Explication :** Il s'agit de montrer le mouvement de la pensée. On part de la définition pour arriver à l'illustration et finir par la déduction inverse.
+* **Pièges :** Ne pas citer les parties du texte correspondant à chaque mouvement.
+* **Barème OBC :** 1 pt pour chaque étape identifiée.
+
+---
+
+### **II- Deuxième partie : L'évaluation de l’agir compétent (9 pts)**
+
+**Sujet :** « La science seule peut fournir les vérités vitales sans lesquelles la vie ne serait pas supportable » (Ernest Renan).
+
+**Première tâche : La thèse (3 pts)**
+
+* **Développement :** On peut soutenir avec Renan que la science est le fondement de la vie moderne. Elle libère l'homme de l'ignorance et de la superstition. Les "vérités vitales" (médecine, technologie, compréhension de l'univers) permettent de maîtriser la nature, de réduire les souffrances et de prolonger l'existence. Sans le progrès scientifique, la vie serait marquée par la précarité et la peur.
+* **Attentes :** Défense du scientisme ou de la valeur utilitaire de la science.
+
+**Deuxième tâche : L’antithèse (3 pts)**
+
+* **Développement :** Toutefois, la science ne suffit pas à rendre la vie "supportable". La science explique le "comment" mais néglige le "pourquoi" (le sens). Les questions métaphysiques, morales et existentielles (le bonheur, la mort, l'amour, la justice) échappent à la rigueur scientifique. Réduire la vie à la seule science risque de mener au nihilisme et à une déshumanisation technique. La foi, l'art et la philosophie apportent des vérités essentielles à l'âme humaine que la science ne peut remplacer.
+* **Attentes :** Critique des limites de la science (scientisme). Importance des valeurs humaines.
+
+**Troisième tâche : La synthèse (3 pts)**
+
+* **Développement :** En définitive, la science et l'humain sont complémentaires. Si la science apporte des vérités indispensables pour la *conservation* de la vie (confort, santé), elle ne fournit pas à elle seule les raisons *d'aimer* la vie. Une vie supportable exige la science pour l'efficacité matérielle et la philosophie/spiritualité pour la sagesse et le sens. La science doit être éclairée par une conscience morale.
+* **Attentes :** Dépassement de la contradiction : nécessité d'un dialogue entre savoir scientifique et sagesse humaine.
+
+---
+
+**Présentation (2 pts)**
+
+* Respect de la structure (Thèse/Antithèse/Synthèse) : 1 pt
+* Allure générale (clarté, propreté, absence de ratures) : 1 pt
+
+---
+
+*Session : août 2026*
