@@ -1,0 +1,56 @@
+SO AS USUAL FIRST THING FIRST WE ARE IN THE SUBJECT OF GEOGRAPHY FOR SERIES C-D AND YOU GONNA SCAN EACH QUESTION FROM EACH CHAPTER BEFORE YOU START WORKING ON THEM SO YOU WOULD NOT CONFUSE WHILE YOU ARE FIXING DOWN WARD
+
+I GONNA BE USING ALOT OF THE WORD "CURRENT",WHEN EVER YOU SEE IT WHAT I MEAN BY THAT IS : BEFORE YOU GO THROUGH AND CHNAGE THE ORDER OF THE QUESTIONS SINCE SOME QUESTIONS MAYBE ADDED OR REDUCED YOU CAN SEE THE QUESTIONS NUMBER AS THEY ARE RN BEFORE YOU EDIT IT 
+
+SOO AFTER FIXING AND ARRANGING EVERYTHING YOUR OUTPUT SHOULD CONTAIN WHAT YOU HAVE FIXED INDICATING BY THE QUESTION NUMBER IN THE APP SO I CAN VERIFY AND WHAT STILL NEED FROM ME TO PROCEED AND WHAT YOU HAVE NOT BEEN ABLE TO FIX AND TELL ME WHY AND MY MISTAKES IN THESE AS WELL THAT YOU HAVE SPOTTED BUT I DID NOT MENTION THEM BELOW AND ANY OTHER RELEVANT INFORMATION IN A NOT TOO TECHNICAL LANGAUGE BUT SIMPLE TO GRASP
+
+for any question that needs image/diagram or chart or table as its answer and the answer is not there...you can generate what you can and give me the prompt of what you can not and list them to me both what you have generated and what you can not find
+
+SOURCE FOR IMAGES "C:\Users\shaba\Pictures\Screenshots"
+
+This fix is subject wide...the most recent years should begin at the top before the other years follow in that order below same goes to their exercises or question orders
+
+QUESTION NUMBERING IS VERY IMPORTANT AND SHOULD BE PUT VERY WELL FOR EACH QUESTION AND THEIR HEADINGS
+
+NOW WE ARE IN THE FIRST CHAPTER LE CAMEROUN
+
+1-OKAY in the first reference the school name is mentioned that should be removed thats a red flag or red code do not mention any schools name in the production app never till i ask you to..production app wide remove any school name mention not only in this subject or chapter
+2-current question 14 and 15 requires an image as a reference and i do not know if question 14 requires the map again as a diagram but if it does you can generate it but use this image as the reference the both question. this image ref-14 is found in C:\Users\shaba\Downloads\Exam PDFs\Geo C-D in DB\Geo C-D seq 2021-2
+3-question 21 and question 22 should be swaped the one that need to be above is question 22
+4-in the current reference 5 change that it maps image with this one c-ref5 from the screenshot folder
+5-please for the eprueve zero you should go into their sources and take their year that they came in...if is 2023-2024 use the year 2024 etc please in their main pdf source bc right now is kinda confusing not only in the app but in my local folder for all the files in C:\Users\shaba\Downloads\Exam PDFs\Geo C-D in DB
+6-current question 25 does not make sense to me it should be removed 
+5-question 61 should be after question 58 because the are linked questions
+6-seems like current question 62 and 65 are identical despite the fact that they came from 2 different years 
+
+
+NOW ON SECOND CHAPTER LA LIBERALISATION DES ECHANGES
+
+1-REMOVE Q14 MAKES NO SENSE OR ALLOW IT BUT PROVIDE SOME CONTEXT
+
+
+NOW IN CHAPTER 3 LA CROISSANCE.....
+
+1- In the answer section of question1 i see this mistake of doc.. is written as doc. 2, doc.
+
+4) et....   why like this why skipping the line ? i have seen this not only in this answer section but in another chapter of this same subject...it should be written like this (doc. 2, doc. 4) on same line please fix it chapter wide
+
+NOW IN CHAPTER LES ETAT-UNIS...
+
+1-in the bareme section of the first question 1 and 2 is too much points there please review its pdf and fix that 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

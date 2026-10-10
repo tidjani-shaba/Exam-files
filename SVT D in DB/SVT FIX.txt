@@ -1,0 +1,107 @@
+Okay, as usual, you are going to scan all the questions that we are going to be doing before you start working on them. We are in the first chapter of SVT of series D. So we are going to start working from there. Um, yeah. And for any source, you're going to go into this folder and go to their sources. Their are PDFs, maybe their are TXT files, whatever. That is the core. So that is where you're going to search and get every other source that I may ask you and I did not present it below. So you need to get that source from here, C:\Users\shaba\Downloads\Exam PDFs\SVT D in DB
+
+I GONNA BE USING ALOT OF THE WORD "CURRENT",WHEN EVER YOU SEE IT WHAT I MEAN BY THAT IS : BEFORE YOU GO THROUGH AND CHNAGE THE ORDER OF THE QUESTIONS SINCE SOME QUESTIONS MAYBE ADDED OR REDUCED YOU CAN SEE THE QUESTIONS NUMBER AS THEY ARE RN BEFORE YOU EDIT IT 
+
+For any question that requires chart, table diagram image or something like that and you find it in the questions years folder but could not find it, you can generate what you can and give me the prompt of what you can not and list them to me both what you have generated and what you can not find
+
+SOO AFTER FIXING AND ARRANGING EVERYTHING YOUR OUTPUT SHOULD CONTAIN WHAT YOU HAVE FIXED INDICATING BY THE QUESTION NUMBER IN THE APP SO I CAN VERIFY AND WHAT STILL NEED FROM ME TO PROCEED AND WHAT YOU HAVE NOT BEEN ABLE TO FIX AND TELL ME WHY AND MY MISTAKES IN THESE AS WELL THAT YOU HAVE SPOTTED BUT I DID NOT MENTION THEM BELOW AND ANY OTHER RELEVANT INFORMATION IN A NOT TOO TECHNICAL LANGAUGE BUT SIMPLE TO GRASP
+
+i want that all the questions per year batch they should be organized in order as they came in the year from top to bottom because so far i can see that is mixed so please if is for example year 2020 the questions of that year should begin from exercise or questions from above to below
+
+SOURCE FOR IMAGES "C:\Users\shaba\Pictures\Screenshots"
+
+in this same chapter i can see you writing exercise as Ex that should be changed all of them should be fully written as a exercise then its number....i do not know weather you did that in all the chapters in this subject but if so any where else that is written like this should be fixed
+
+THE NEW NUMBERING SYSTEM IS KINDA CONFUSING IN THIS SUBJECT OF SVT D SO PLEASE SEE WHAT YOU CAN DO ABOUT IT MAKE THEM MORE COMPLETE
+
+NOW IN THE FIRST CHAPTER GENETIQUE ET HEREDITE
+
+1-in reference number one of this chapter i want you to add this as the passage "Pour comprendre la diversité des êtres vivants, les scientifiques ont réalisé des croisements
+expérimentaux chez un organisme diploïde: la drosophile ou mouche du vinaigre (Drosophila
+melanogaster).
+Ils ont étudié la transmission et la redistribution chez les descendants de ces croisements de deux
+caractères héréditaires : couleur du corps et aspect des soies gouvernés chacun par un gène.
+Ils réalisent les deux croisements suivants entre mâles (♂) et femelles (♀) :" nothing added or reduce from it and allow the diagram that is already there also in the reference section and the passage that us currently found in question 4 should be removed and only the question 1 there should be left
+2-in this same chapter i can see you writing exercise as Ex that should be changed all of them should be fully written as a exercise then its number....i do not know weather you did that in all the chapters in this subject but if so any where else that is written like this should be fixed
+3-i want the passage found in current question 8 should be removed and put in the reference 2 section instead and allow only question 1 that is currently there
+4-same thing with question 13 and reference 3 also below the image found in the reference section it should have its name as it came inside the pdf source check there and see ###SHOUT THIS LOUD IN YOUR OUTPUT
+5-same with question 19 and reference 4 and the question 19 should have only the question part
+6-current question 29 and 30 should be removed because they are duplicate of what is already found in current question 28
+7-same with question 32 and 33 bc they are all found in question 31 as well
+8-in this chapter and subject wide all the points that are not yet put in to () should be put in 
+9-remove current question 42 bc is already found in current question 41
+10-current question 44 and 45 should also be removed bc they are already found in current question 43
+11-current question 49 have the QCM and as usual i want the word QCM to be bold and it should be alone on it own line
+12-okay 8 question came for the 2016 batch, and i can not fine many of those questions that are currently in the app, any ways go here and source for the real 2016 questions C:\Users\shaba\Downloads\Exam PDFs\SVT D in DB\svt d 2016
+13-remove all the passage that is found in current question 109 including the headings and put it in the reference 13 section
+
+
+NOW IN CHAPTER OF IMMUNOLOGIE
+
+1-in question 63 instead of (reference 2) it should be (reference 8)
+2-the 4 in t4 found in question 73 it should be small 4 like base
+3-in question 81 instead of (reference 2) it should be (reference 9)
+4-why the image in reference is not loading ? fix it
+
+
+NOW IN THE THIRD CHAPTER WHICH IS COMMUNICATION NERVEUSE
+
+1-i want reference should have all the passage including what is in question 11 and the image that is already there...and the questions that follow from 11 to 15 all of them should be accurate as they came in image ref1c
+2-from question 17 to 22 and question 26 to 30 seem to me very identical question even tho they came both in different years and i check and see that they both came in 2020 and 2019 respectively am i right ?
+3-why is image in ref 7 not loading ??
+4-question 40 should be organize as 2-a)then the question avoid allowing free line as you have it now currently and fix this subject wide
+5-can not find question 53 and 54 in the 2016 paper 
+6-make the headings in question 59 bold
+7-REMIND ME TO check image in ref 10,11,12,13 and 14 IN YOUR OUTPUT
+8-add this below question 79 "analyser ete interpreter les electroneurogrammes obtenus" as question 80
+
+
+NOW IN THE FORTH CHAPTER COMMUNICATION HORMONALE
+
+1-in this chapter from ref 1 to question 3 make it accurate word for word as it came in this image ref1-q3
+2-in reference as you made experience 1 bold make the other 2 experiences heading bold as well
+3-can not find question 37 in the 2016 paper
+4-REMIND ME TO check image in ref 15,16,17,18,19,20,22,23,24 and 26 IN YOUR OUTPUT
+5-add this in question 56 "Dans cette serie d'experiences:"
+6-REMIND ME TO check image in answer section of current question 70, IN YOUR OUTPUT
+7-for current reference 26 go into the svt d 2011 is source and look for its heading and add it above the 2 images as it came in the source pdf
+
+
+CHAPTER OF REPRODUCTION
+
+1-as usual all the QCM should be bold and put on its own line it should be first subject wide
+2-remove reference 5 and link both question 16 and 17 to ref 4
+3-can not fine question 23,25 and 26 in the 2016 paper
+
+
+NOW IN CHAPTER OF ECOLOGIE
+
+1-the 3 qcm question found in this chapter need to be numbered
+
+
+NOW IN CHAPTER EVOLUTION DES ESPECES
+
+1-All the qcm should be numbered as well
+2-every question should be numbered as it came in its source subject wide please 
+3-the first image in ref 3 should be replace with image ref3-1
+
+
+NOW IN CHAPTER TECTONIQUE DES PLAQUES
+
+1-All the qcm should be numbered as well
+
+THATS IS IT FOR SVT D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+Okay, as usual, you are going to scan all the questions that we are going to be doing before you start working on them. We are in the first chapter of mathematics of series C. So we are going to start working from there. Um, yeah .And for any source, you're going to go into this folder and go to their sources. There are PDFs, maybe there are TXT files, whatever. That is the core. So that is where you're going to search and get every other source that I may ask you and I did not present it below. So you need to get that source from here, C:\Users\shaba\Downloads\Exam PDFs\math C IN DB
+
+
+I GONNA BE USING ALOT OF THE WORD "CURRENT",WHEN EVER YOU SEE IT WHAT I MEAN BY THAT IS : BEFORE YOU GO THROUGH AND CHNAGE THE ORDER OF THE QUESTIONS SINCE SOME QUESTIONS MAYBE ADDED OR REDUCED YOU CAN SEE THE QUESTIONS NUMBER AS THEY ARE RN BEFORE YOU EDIT IT 
+
+
+You gonna have to look for any reference section tables answer explanation or bareme section that requires math rendering but do not have and you fix it by rendering it with math rendering
+
+SOO AFTER FIXING AND ARRANGING EVERYTHING YOUR OUTPUT SHOULD CONTAIN WHAT YOU HAVE FIXED INDICATING BY THE QUESTION NUMBER IN THE APP SO I CAN VERIFY AND WHAT STILL NEED FROM ME TO PROCEED AND WHAT YOU HAVE NOT BEEN ABLE TO FIX AND TELL ME WHY AND MY MISTAKES IN THESE AS WELL THAT YOU HAVE SPOTTED BUT I DID NOT MENTION THEM BELOW AND ANY OTHER RELEVANT INFORMATION IN A NOT TOO TECHNICAL LANGAUGE BUT SIMPLE TO GRASP THE END GOAL IS TO HAVE SUBJECT WITH ZERO ERRORS
+
+OKAY FIRST CHAPTER OF MATH C WHICH IS ARITHMETIQUE
+
+1-q1 and 2 are tach problem so go into its source and fix it
+2-current q9 should have all of this "Soit p un entiér relatif. On pose a = 14p + 3 et b 5p + l. Soit (E) l'équation 87x+ 31)' = 2 dans
+zz. On désigne par(D) la droite d'équation 87x— 3 ly — 2 = 0 dans le plan rapporté au repére
+orthonormé (O, i, j).
+1. a) En utilisant l' égalité de Bézout, démontrer que a et b Sont premiers entre eux."
+3-current q13 should be this 3. Déterminer les points de (D) dom les coordonnées (x, y) vérifient les deux conditions
+suivantes :
+i) x ety Sont des entiers naturels.
+ii) 100.  1,25 pt
+Indication : On pourra remarquer que M(x,y) appartient å (D) si, et seulement si, (x, —y) est
+solution de (E). it should be organize very well in order please
+4-current q15 should be this "b)  déterminer les couples d’entiers relatifs ( ) ;x y vérifiant l’équation( )E . "
+5-fix current q18 and 19 in order and word for word as they cam in the image of q18-q19A 
+6-

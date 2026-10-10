@@ -1,0 +1,193 @@
+Okay, as usual, you are going to scan all the questions that we are going to be doing before you start working on them. We are in the first chapter of mathematics of series D. So we are going to start working from there. Um, yeah .And for any source, you're going to go into this folder and go to thier sources. There are PDFs, maybe there are TXT files, whatever. That is the core. So that is where you're going to search and get every other source that I may ask you and I did not present it below. So you need to get that source from here, C:\Users\shaba\Downloads\Exam PDFs\MATH D IN DB
+
+
+I GONNA BE USING ALOT OF THE WORD "CURRENT",WHEN EVER YOU SEE IT WHAT I MEAN BY THAT IS : BEFORE YOU GO THROUGH AND CHNAGE THE ORDER OF THE QUESTIONS SINCE SOME QUESTIONS MAYBE ADDED OR REDUCED YOU CAN SEE THE QUESTIONS NUMBER AS THEY ARE RN BEFORE YOU EDIT IT 
+
+
+You gonna have to look for any reference section tables answer explanation or bareme section that requires math rendering but do not have and you fix it by rendering it with math rendering
+
+
+SOO AFTER FIXING AND ARRANGING EVERYTHING YOUR OUTPUT SHOULD CONTAIN WHAT YOU HAVE FIXED INDICATING BY THE QUESTION NUMBER IN THE APP SO I CAN VERIFY AND WHAT STILL NEED FROM ME TO PROCEED AND WHAT YOU HAVE NOT BEEN ABLE TO FIX AND TELL ME WHY AND MY MISTAKES IN THESE AS WELL THAT YOU HAVE SPOTTED BUT I DID NOT MENTION THEM BELOW AND ANY OTHER RELEVANT INFORMATION IN A NOT TOO TECHNICAL LANGAUGE BUT SIMPLE TO GRASP
+
+OKAY FIRST CHAPTER OF MATH D WHICH IS SUITES NUMERIQUE
+
+NOW I CAN SEE A PATTERN WITH THIS CHAPTER AND THE PATTERN IS THERE IS MANY QUESTION CAME FROM THE SECTION/PARTIE B OF MANY MATH D WHICH CONTAINS ALL THE TACHE QUESTIONS...SO WHAT I WANT YOU TO DO IS IN ALL THOSE YEARS OF MATH D ALL THE PARTIE B SHOULD BE IN THIS CHAPTER OF SUITE NUMERIQUE INCLUDING THIER PASSAGE AS REFERENCE AND ALL THE 3 QUESTIONS THAT FOLLOWS BELOW THE PASSAGES ALL AS INDEPENDENT QUESTIONS...FOR EVERY YEAR THAT HAVE THAT YOU SHOULD INCLUDE IT HERE FOR THOSE TAHT HAVE IMAGE I GONNA NAME THEM FOR YOU TO SEE....NOW I HAVE NAMED THE PROBLEM TO TACHE PROBLEM
+
+SOURCE FOR IMAGES "C:\Users\shaba\Pictures\Screenshots"
+
+for any question that needs image/diagram or chart or table as its answer and the answer is not there...you can generate what you can and give me the prompt of what you can not and list them to me both what you have generated and what you can not find
+
+1-the first question is not complete in other to make it complete please source all its passage from the image tache3 found here C:\Users\shaba\Pictures\Screenshots including its iamge ref1 found here C:\Users\shaba\Downloads\Exam PDFs\MATH D IN DB\math D 2026. so basically what you gonna do is create a reference for that passage and include the image named ref1 inside the ref section and after the reference the 1 questions found in the image tache3 should all be included in this chapter as well so they gonna be question 1-3
+2-The current question 2 and 3 are not well put the instruction have to be on the question that would be first among them and the on donne....that you gave in current question 3 should be removed because is not found in the 2025 pdf check it very well in the exercise section in 2025 please and fix it
+3-in the image of q4-8 so too in the app the questions from 4 to 8 should be corrected and edited so it should be accurate as it came in the image
+4-in q9s image you gonna change question 9 in this chapter so it has to have its own reference then below it all those 3 questions that came below them each as its own question and in the newly create ref that you gonna create it should have the tables as it came in the image you gonna have to generate it in the ref section and this fix since is kinda many in this chapter we gonna call it TACHE PROBLEM
+5-i think is same fix with current question 10 but this came from the year 2024 pdf partie b it should have the entire passage including the image named ref10 is found here  C:\Users\shaba\Downloads\Exam PDFs\MATH D IN DB\math D 2024 also it should include all the questions that came below it also a TACHE PROBLEM
+6-question 13 i want it to be accurate be accurate look very in the pdf of 2023 math d exercise2-2c look very well
+7-Question is also a TACHE PROBLEM you gonna look into its pdf of 2023 and fix it.
+8-in the app question 19 and 20 should be accurate take it from this image Q19N20S...
+9-look into the image Q23-29S and in this chapter the current question 23 to q29 they should be super accurate word for word as they came in the image please
+10-question 31 should be very accurate please look into the pdf of 2017 again very well please word for word
+11-look into the image q32-33s and see in this chapter the current question 32 and 33 first make them very accurate word for word....also add the C also
+12-from the current question 35 to question 39 instead of it starting with the "soit f la function definie...." which is for the question one of that part if you look into the pdf...you should begin instead with the "On consider les suites..." which is from question 2a to 2e which is from current question 32-39 respectively in the app
+
+13-same issue with question 41-43 which is in the partie C and this is how it came in the 2012 pdf check it also "Partie C : 2,75points
+Onconsidèrela suiteU à termespositifsdéfinies sur N⋆ par : un+1 =2pun etu1=1.
+1. Calculer u2 et u3. Donnerlesrésultatssous la forme 2λ où λest unréel.
+2. Soit (vn) la suite définie par vn =lnun =−2ln2.
+(a) Montrerque(vn)est unesuitegéométrique.
+(b) Exprimer vn enfonctionden.
+[1pt]
+[0,5pt]
+[0,75pt]
+[0,5pt]
+(c) Endéduirel’expression de un en fonction den et calculer la limitede un quand n tendvers
++∞.
+[1pt]"
+14-from current question 44-47 look into the image of q8s and make them accurate word for word
+
+
+NOW IN THE SECOND CHAPTER "FUNCTIONS NUMERIQUES"
+
+for any question that needs image/diagram or chart or table as its answer and the answer is not there...you can generate what you can and give me the prompt of what you can not and list them to me
+
+this chapter have huge problem of loading math rendered questions i do not know why despite the fact that the answer sections even while being math rendered is still showing regardless but why did the question do not load some times even after opening and moving out of the chapter refreshing also etc please check why tho all these was on staging but please fix it and check weather is also in production as well
+
+1-answer section of current question 6 does not need a table or something in its answer section same with question 7 as well?
+2-curent question 8-9 make it accurate word for word as it came in image q8-9f
+3-current question 10 should have all the partie b section both the passage and the 3 questions that followed below it and the passage should be as a ref that you gonna create...look into image q10f and add the image ref1 found here C:\Users\shaba\Downloads\Exam PDFs\MATH D IN DB\math D 2026 to make the reference complete
+4-the current question 11-17 you should look into image q11-17f and fix any inaccuracy or any thing that is missing include it
+5-from question 18-24 make it accurate and complete word for word as it came in the image q18-24f
+6-current question 25-26 should have all the partie b section both the passage and the 3 questions that followed below it and the passage should be as a ref that you gonna create...look into image q10f and add the image ref1 found here C:\Users\shaba\Downloads\Exam PDFs\MATH D IN DB\math D 2026 to make the reference complete
+7-changed the current question 28 and 29 to just these "b) Montrer que la solution [ de (E) telle que [(0) = 1 est définie sur ~ par [(x) = e2X • 0,5 P.'t 
+c) Déterminer en fonction de n la valeur moyenne de [ sur l'intervalle [n, n + 1]." remove the instructions that are currently there
+8-now the current questions from 30-37 look into the image q30-37f and make them accurate word for word as in the image allow the bareme and marks the way they are 
+9-as it is in image q38N39f current question 38 and 39 should be swapped with the questions that are there in the image q38N39f and they should have their own ref containing those passage accurate word for word
+10-in the image q46-47f it should first of all have its own reference containing the image called prtB found here C:\Users\shaba\Downloads\Exam PDFs\MATH D IN DB\math D 2022 and question 46 and 47 should be swapped with the 3 questions that came below the passage it should be accurate word for word as it is in the image also it should just be the questions do not include some part of the passage as you did with this current question 46 and 47
+11-current question 50 first it should have its own reference take it from this image q50f then the 3 questions should follow them accurate words for words as they came in the image q50f.
+12-look into current question 51-58 and check the math d 2020 pdf and see those exact section that they came in the paper they are some things that you have added so please cross check and remove the addition and make it word for word accurate as they came in the original paper
+13-look into image q59-69f and fix all the current question 59 to 69 word for word accurate as it is in the image please no addition or reduction....
+14-current question 72-73-74 in their bareme section should they need math rendering
+15-in current question 77 i want this image to be added in the question section of q77 or create a reference for that also the use this image q59-69f is found here C:\Users\shaba\Downloads\Exam PDFs\MATH D IN DB\math D 2018
+16-current question 78 to question 91 i want them to be sourced from image q78-91f word to word so fix it
+17-in image q96-98f make it word for word accurate as it came in current question 96 to 98
+18-same with question 99 to 103 through this image q99-103f
+19-same with question 116 to 120 through this image q116-120f
+20-same with question 123 to 129 through this image q123-129f
+21-the entire 2014 batch that is found in this chapter i can not find it in the math 2014 pdf so please recheck and fix the issue there
+22-same with the 2013 batch all of them
+23-same with all the 2012 batch that are found in this chapter so please go into each of them their respective pdfs and re-verify and fix the errors or replace them 
+
+
+NOW IN THE THIRD CHAPTER "NOMBRE COMPLEXES"
+
+for any question that needs image/diagram or chart or table as its answer and the answer is not there...you can generate what you can and give me the prompt of what you can not and list them to me
+
+1-current question 10 should be only this "En déduire les étéments caractéristiques de S." remove any other thing
+2-in current question 11 to question 14 i want them to be accurate and similar to the image q11-14n word for word no addition or reduction 
+3-Question 2023 and question 2024 should just be these "d) Vérifier que A et B sont éléments de f 2 . 
+e)Déterminer l'écriture complexe de la similitude directe S de centre .n qui 
+transforme A en B." respectively remove any other addition found in there 
+4-the current question 31 is a TACHE PROBLEM so solve it as you do for tache problem tho its own source is from image q46-47f
+5-the current question 32 to 37 i want them to have exact same content word for word as the came in this image q32-37n
+6-look into exercise 1 - 3a,3b and 4a,4b question in the pdf of math d 2020 and fix the CURRENT QUESTION 41,42,43 and 44 RESPECTIVELY WORD FOR WORD AS THEY CAME INSIDE THAT ORIGINAL PDF BC NOW IS LIKE YOU MADE SOME SMALL ADDITION THAT ARE NOT FOUND IN THE ORIGINAL...ALSO YOU HAVE BEEN DOING THIS SO FAR THROUGH THIS MATH SUBJECTS I WOULD LIKE TO KNOW "THOSE ADDITION YOU MADE WOULD NOT CHANGE THE CONTEXT OF THE QUESTIONS OR ANSWERS RIGHT ? AND IT WOULD NOT CONFUSE STUDENTTS RIGHT ?
+7-the current question 45 to 49 should be edited and same content as in the image q45-49n word for word 
+8-in current question 50 to 53, i want that first you should look inside this image q50-53n and extract the passage word for word and put it inside a new reference that you gonna create for the question 1,2a,2b and q2c below it which would make it a total of 4 questions linked to the reference...also you gonna take this image ref-N found in C:\Users\shaba\Downloads\Exam PDFs\MATH D IN DB\math D 2018 and add it to make the reference section complete
+9-current question 56 to 59 should be this "3. On considère l’application f qui à tout point Md’affixez b≠ , associe le point 
+'M d’affixe 'z définie par 5 4 ' 7
+z i z z i
+− − = − − 
+a) Calculer l’affixe 'c du point  'C par f et placer le point 'Csur la figure. 
+b) Déterminer l’ensemble ( )ε des points Md’affixe zavec z b≠ tels que ' 1 z = . 
+c) Justifier que  ( )εcontient les points DetC. Tracer ( )ε 
+4. On appelle J l’image du point A par la rotation r de centreD et d’angle 2
+π− 
+Déterminer l’affixe de J" word for word as it came in the 2017 pdf.
+
+10-in current question 83 i can see that you have added this "On a resolu dans C l'equation z2 - 4z + 8 = 0, de solutions 2 + 2i et 2 - 2i" by your self which if you check in both the image q82-88n and the pdf of 2013 exercise 1, you would not see that thing you just added at all...which means is like the solution/answer from the current question 82(which is the previous question) that you took and add it there as a summary....any ways this is not the first time that i have been seeing this through out math and if there is this type of issue again in some subjects lmk...first name this issue/problem LINK ANSWER. second from current question 82 to 88 i want them to be edited word for word as they came in image q82-88n. third after removing the answer  from the previous question (82) instead you can out it in the answer section of current question 83 instead of putting it in the question section add it in the answer/solution section and it should be put like " after obtaining this answer "On a resolu dans C l'equation z2 - 4z + 8 = 0, de solutions 2 + 2i et 2 - 2i" from exercise 1 - 1a here is how we gonna proceed with solving this question/problem...or something as such and fix this issue app wide every where that this LINK ANSWER issue is found.
+11-okay current question 93 to 97 should be edited word for word as it came in image q93-97n
+ 
+
+NOW IN THE CHAPTER OF PROBABILITE 
+
+for any question that needs image/diagram or chart or table as its answer and the answer is not there...you can generate what you can and give me the prompt of what you can not and list them to me
+
+ 
+1-from current question 1 to 6 edit it, it should be accurate as it came in image q1-6p word for also that table that is found in current question 4 needs math rendering on it
+2-current question 7 to 9 also same thing but with image q7-9p
+3-current question 11 should have only this question "Montrer que la probabilité de l'évènement B : « M appartient à l'axe des imaginaires 
+purs» est égale à 0,2." remove any other addition there please 
+4-same thing with current question 15 only this question "b) Soit P(n) la probabilité de tirer une dose de chaque firme. Exprimer P(n) l'aide de
+f(n) et en déduire la valeur de n pour laquelle P(n) est maximale"
+5-current question 16 is TACHE PROBLEM so give it the usual solution for TACHE PROBLEMS
+6-current question 18 should have on this "Déterminer les probabilités:b. P2 d' avoir une seule machine défaillante." remove any other thing in there
+7-current question 19 to 24 should have exact questions as they came in image q19-24p
+8-current question 26 should have only this "Calculer la probabilité des évènements : b) B « au moins trois femmes sont choisies » " as a question nothing else.
+9-current question 30 should have only the question that began with "Calculer la probabilite..." remove any other thing in there
+10-current question 31 to 33 they should have exact content as it came in image q31-33p word for word
+11-from current question 34 to 39 edit them and organize their contents as it came in image q34-39p word for word please
+
+
+NOW IN CHAPTER OF APPLICATION LINEAR
+
+for any question that needs image/diagram or chart or table as its answer and the answer is not there...you can generate what you can and give me the prompt of what you can not and list them to me
+
+1-only 1 question in this chapter and its only problem is the TACHE PROBLEM so give him the solution for tache problems which means it would have one ref and 3 questions below it making it the total of 3 questions in the chapter after fixing using image q50f as well
+
+
+NOW IN CHAPTER OF STATISTIQUE
+
+for any question that needs image/diagram or chart or table as its answer and the answer is not there...you can generate what you can and give me the prompt of what you can not and list them to me
+
+1-current question the table in there need some content with math rendering.
+2-current question 4 in the sentence "est y=0,448x-0,27" instead of -0,27 is -0,24...that is my own thinking but those look into image q4s to determine..
+3-current question 5 should also be correct by looking into image q4s as well
+4-current question 6 and 7 are both TACHE PROBLEMS so give them solution for tache problems using image q9s as well
+5-current question 8 should be represented as it came in image q8s2 word for word and the table also should be included 
+6-the table in current question 12 need some math rendering
+7-current question 12 should have only this "En déduire une estimation des frais de publicité d'une entreprise dont le chiffre d'affaires est de 3 milliards de francs" as its question any other thing else should be removed
+8-the table in current question 16 need some math rendering
+9-with out changing the bareme current question 17 and 18 should be these as their questions respectively "Déterminer les coordonnées du point moyen G de ce nuage.
+Déterminer la covariance de x et y notée cov(xo." remove any other thing in their question sections
+10-the table in current question 19 also need some math rendering
+11-from question 19 to 23 i want them to be edited and be like the contain of image q19-23s2 word for word
+12-the table in current question 24 also need some math rendering
+13-the table in current question 28 also need some math rendering
+14-current question 34 should be only this "3. Quel est lemode de cette série statistique? [0,25pt]" as it question nothing else
+15-same thing for current question 35 as well "4. Calculer la moyenne, la variance et l’écart type de la série étudiée. [1,75pt]" 
+
+
+NOW IN THE LAST CHAPTER WHICH IS GRAPHES
+
+for any question that needs image/diagram or chart or table as its answer and the answer is not there...you can generate what you can and give me the prompt of what you can not and list them to me
+
+1-first i do not know if the name of the chapter "graphe" is also called as such in French
+2-its current question 1 is a ATCHE PROBLEM so do the solution for tache problems using image tache3
+3-in this chapter swap question 2 with question 3...look very well and fix the order also the current question 3 before swapping needs a graphe as well in its answer section 
+4-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AFTER FIX ONE THEN WE GONNA GO THROUGH ALL THE STEPS AGAIN IN THE CHAPTERS.

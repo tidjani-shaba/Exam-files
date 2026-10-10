@@ -1,0 +1,152 @@
+RULE EXERCISE: THE MAIN RULE FOR ALL THE CHIMIE FOR D BE THAT "WHEN AN EXERCISE IS BROUGHT ALL THE QUESTIONS THAT ARE IN THAT PARTICULAR EXERCISE SHOULD BE BROUGHT IN IN THAT ORDER ALL OF THEM AND YOU SHOULD GO BACK IN THE EACH QUSTION OR EXERCISE PAPER SOURCE AND SOURCE THOSE" AND WHAT EVER THAT IS SUPPOSED TO BE MATH RENDERED SHOULD BE MATH RENDERED.
+
+
+I would like that, as usual, you should scan all the problems that you're going to solve. You're going to see the questions order before you start fixing them. If not, you're going to be confused. Well, you're going to be confused. So we are going to scan them, all of them, in serial order before we start working on them. And this rule called Rule Exercise, we are going to apply that in all the chapters in Shimi before we even start going in different chapters. And we are going to keep this rule called Rule Exercise that is a face rule. We are going to keep it in the memo. We are going to keep it in the cloud and MD. We are going to save it somewhere that in whatever session I say rule this, that session is going to understand what I'm trying to say.
+
+
+OKAY WE ARE IN FIRST CHAPTER OF CHIMIE C-D and as usual you gonna go into this folder "C:\Users\shaba\Downloads\Exam PDFs\CHIMIE C-D in DB" and enter each questions year folder and verify against it exam source not only the txt file also in this entire subject as usual all the QCM should be bold and be on their on line them alone on their line you gonna check where ever is supposed to be math rendered it should be converted to math rendering so do that subject wide both on chimie c and chimie d also be math rendered and math rendering as usual it should be stored in cloudflare
+
+
+First Apply Rule EXERCISE HERE And them exactly as they came in their sources
+
+1 in q1 i think it should be math rendered so the formula can be well written as it is in the image of q1c and it should have the main heading which is exercise 2 and application des saviors 8 points and it should be bold same with its answer section it should be math rendred
+
+2 the q2 should not have that (suit). word it should just be definer then the thing to define
+
+3 same with question 12 it should be math rendered so that formula would be well display also in its answer section and subject wide that have that type of formuala and equation both on question answer and explanation section
+
+4 question 14 as you can see in q14c image it should be well organized and i think that passage would be as a ref for those question and the question from the images also the second question from that same passage is missen where have you taken it to ? or is it not supposed to be in that chapter ? of so then where have you put it ? where ever it is link this passage to it also the equation Equation-bilan de synthèse de l'aspirine. the image should surely be in the db alredy use that also in the ref section
+
+5 math rendering for question 20 
+
+6 question 21 math rendered 
+
+7 q75 the donner should begin on a new line
+
+8 same with question 80 also i can see those types of questions beginning all on same line i want them all of them should begin on their own line you can check their own source and see
+
+9 for the 2016 batch in this chapter you have not added this data so it should be added as you can see in the 2016 image 
+
+10 seen this inconsistency...i downloaded some questions and it showed already downloaded but while i was offline the image in the answer section was not downloaded i have to be online again to refresh before seeing it
+
+11 in question 117, look into its source and make it complete because just that question with out its version of q3 and q3.1 before q3.2 same for the questions below them 
+
+12  same thing for question 123 till question 125
+
+IGNORE THIS LINE ***********CONTINUE FROM QUESTION 128************************
+
+IGNORE THIS LINE AFTER THE FIXES WE GONNA GO THROUGH ALL THE STEPS AGAIN IN THE CHAPTER.##############
+
+NOW THE SECOND CHAPTER OF CHIMIE WHICH IS STRUCTURE DE L'ATOME
+
+First Apply Rule EXERCISE HERE And them exactly as they came in their sources
+
+1 question 1 and 2 need their main main question 2 for it to be complete so look into the source and fix that and every other questions that have this issue because it happens to be that many questions in chimie is having this issue
+
+2 in this entire chapter make a chapter wide math rendering for any question answer of explanation section that needs it
+
+3 the q10s image should be part of question 10 and i think that should have its own reference with the image included in it 
+
+4 some questions like the one that is supposed to be between question 10 and 11 is removed are they like not supposed to be there or they are not of that paragraph or how ? and where are they put to ?
+
+5 q16 need its main q3 from the source to make it complete 
+
+IGNORE THIS LINE ************CONTINUE FROM QUESTION 21***********************
+
+IGNORE THIS LINE AFTER THE FIXES WE GONNA GO THROUGH ALL THE STEPS AGAIN IN THE CHAPTER.##############
+
+NOW THE NEXT CHAPTER WHICH IS REACTION ACIDE-BASE first every question that needs math rendering should be done secondly go into the chapter and check across their sources and complete what ever is not completed
+
+First Apply Rule EXERCISE HERE And them exactly as they came in their sources
+
+1 q1 i think its needs its own reference so you gonna include everything that is found int he image of q1r, and i think question 2 that is found from that image of q1r should be included if not tell me why is it not of this chapter ? 
+
+2 q4 should have its instruction which says is true or false
+
+3 in reference replace the long text that is extracted from the actual chart also you can see the chart as R1r image so use the image instead in the reference section 
+
+4 and it seems like q5 needs its own image/diagram in its answer section so generate that or give me a prompt for that  
+
+5 Question 7 needs it main reference for it to be complete so look into the source of 2023 and fix them
+
+6 from the image of q8-10r i want that question 8 to 10 should be based on the image so you should add a reference for those questions and include all the questions and in the reference section add the table as well and any other thing that is found in the image 
+
+7 in reference 2 i want that in document 2 you gonna see that in the main 2022 you gonna see that is listed so in the reference section and chapter wide what ever is listed in should also be display as listed in the app also and just below the reference why isn't the question 1 of the reference which is  "1- Propose un protocole pour préparer 200 ml d'une solution Sde pH=4 en s'aidant de la solution 50 
+et de l'eau distillée." as it came in the main source not there ? is it not of this chapter ? otherwise include it please
+
+8 q15 as you can see in the image q15r it should have all the text and be organize as such also it should have both question 1 and 2 as it came in the image
+
+9 as from image q19-22r it contains from question 19 to question 22 it should first of all have its own reference section and the section should have that table and all the passage and i think you gonna have to add any missen question from the image to those set of questions 
+
+10  look in to the image of q24-28r and fix questions that came in question 24 to question 28 and add what ever is missen and complete the questions as it came inside the image please 
+
+11 look into image q33-35r and fix fix questions that came in question 33 to question 33 and add what ever is missen and complete the questions as it came inside the image please 
+
+12 look into image q36-39r and fix fix questions that came in question 36 to question 39 and add what ever is missen and complete the questions as it came inside the image please 
+
+13 just after question 45 i think you have to add the last question which is question 3-3 after 3-2 as it came in the source check and fill it please 
+
+14 in question 51 you see that it requires question 2.3.3.2 so please include that just above it as it came in the source 
+
+15 look into image q57-60r and include what ever is missen and give all the questions related to the chapter found in it and they should be linked to the main passage and the passage also should be included to make the the question fully complete and comprehensive and i think is same problem with question 64 and 65 so merge them in one place and they should look organise
+
+16  check inside the pdf of 2016 you gonna see that there is question 3.2 that is missen and is supposed to be in between question 61 and question 62
+
+17 look very well in the source and you gonna see that question 68 can not be answered with out it main passage that is found in the question paper of 2016 as question number 2 under exercise 3 and include every necessary question below it
+
+18 the q71 in order to make it very well complete you gonna have to go into the question paper of 2015 and source its passage if it got any to make it kinda more complete
+
+19 take the image q74r and add it in the reference for question 74 and the passage that is found currently in the question section of q74 should be striped out and put in the reference and in the series of those questions from q74 to 76 question 2.2, 2.2.1 and 2.2.2 are missing so please include them
+
+20 take the image found currently in ref3 and create a new reference above question 77 and add the image in it and take out the passage that is found in the question section of question 77 and put it inside the newly created reference and delete the current ref3 and just after q79 q4 as it came in the 2014 paper under exercise 4 is missing so add that 
+
+21 The A in PKA in q99 is small A like a base fix it
+
+22 q101 in the answer section you should include the why there too
+
+23 q105 should and its justification of the answer in the answer section
+
+24 look into image q107-111 and make the passage and the table inside a reference section for all the questions from 107 to 111 and include what ever question that is missing from the image.....
+
+IGNORE THIS LINE *************CONTINUE WITH QUESTION 112************************ 
+
+IGNORE THIS LINE - AFTER THE FIXES WE GONNA GO THROUGH ALL THE STEPS AGAIN IN THE CHAPTER.##############
+
+NOW IN THE CHAPTER OF CINETIQUE CHIMIQUE
+
+First Apply Rule EXERCISE HERE And them exactly as they came in their sources
+
+1 question 5 to 8 should be completed by looking in the 2 images that are q5-8ci and q5-q8ci
+
+2 question 9 and 10 came from the pdf of 2023 under exercise 2 so include those questions that would make them complete like the main question 3 as it came in the paper
+
+3 in the series of question 18 to question 22 question 2 is missing if you look into the 2019 main pdf you gonna see the mistake and include it
+
+4 look into the image of q23-25ci and fix and complete question 23 till question 25 
+
+5 look into the image of q26-29ci and fix and complete question 26 till question 29 and include the missing question
+
+6 in between question 31 and 32 question 1.3 is missing so look into the 2016 main source paper
+
+7 from question 35 to question 28 i want that first the passage found in the 37 it should be removed and put inside the reference 2 that is currently and make thr reference for all the question that are found in those 2 images and also all the question that came in exercise 2 should all be included in there regardless weather they are in that chapter or not
+
+8 the reference 3 the image should be removed from there and be put inside the answer section of question 40
+
+9 also check into the pdf of 2012 in exercise 2 there is the last question that is not included it should be is question 2.3
+
+10 i want from question 42 to question 48 in the passage some paragraphs are missing also from question 42-48 look into the images of q42-48 and q42-q48 and include what is missing and make it fully complete
+
+IGNORE THIS LINE **********CONTINUE FROM QUESTION 48***********************
+
+IGNORE THIS LINE AFTER THE FIXES WE GONNA GO THROUGH ALL THE STEPS AGAIN IN THE CHAPTER.##############
+
+
+
+
+
+
+
+
+
+
+
